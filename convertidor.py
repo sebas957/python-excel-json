@@ -1,6 +1,5 @@
 import pandas as pd
 import json
-from unidecode import unidecode
 
 # Leer el archivo de Excel
 df = pd.read_excel('/var/www/html/python-excel-json/ciudad.xlsx')
@@ -12,7 +11,7 @@ for _, row in df.iterrows():
         'model': row['model'],
         'pk': row['pk'],
         'fields': {
-            'nombre': unidecode(row['nombre']),
+            'nombre': row['nombre'],
             'codigo_postal': str(row['codigo_postal']).zfill(5),
             'latitud': row['latitud'],
             'longitud': row['longitud'],
@@ -25,5 +24,5 @@ for _, row in df.iterrows():
 json_data = json.dumps(data, indent=4)
 
 # Escribir el JSON en un archivo
-with open('datos.json', 'w') as file:
-    file.write(json_data)
+with open('datos.json', 'w', encoding='utf-8') as file:
+    json.dump(data, file, indent=4, ensure_ascii=False)

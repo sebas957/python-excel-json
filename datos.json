@@ -3,7 +3,7 @@
         "model": "general.ciudad",
         "pk": 1,
         "fields": {
-            "nombre": "MEDELLIN",
+            "nombre": "MEDELLÍN",
             "codigo_postal": "05001",
             "latitud": 6.257590259,
             "longitud": -75.611031065,
@@ -25,7 +25,7 @@
         "model": "general.ciudad",
         "pk": 3,
         "fields": {
-            "nombre": "ABRIAQUI",
+            "nombre": "ABRIAQUÍ",
             "codigo_postal": "05004",
             "latitud": 6.627569378,
             "longitud": -76.085977561,
@@ -36,7 +36,7 @@
         "model": "general.ciudad",
         "pk": 4,
         "fields": {
-            "nombre": "ALEJANDRIA",
+            "nombre": "ALEJANDRÍA",
             "codigo_postal": "05021",
             "latitud": 6.365534125,
             "longitud": -75.090597022,
@@ -47,7 +47,7 @@
         "model": "general.ciudad",
         "pk": 5,
         "fields": {
-            "nombre": "AMAGA",
+            "nombre": "AMAGÁ",
             "codigo_postal": "05030",
             "latitud": 6.032921994,
             "longitud": -75.708003098,
@@ -80,7 +80,7 @@
         "model": "general.ciudad",
         "pk": 8,
         "fields": {
-            "nombre": "ANGELOPOLIS",
+            "nombre": "ANGELÓPOLIS",
             "codigo_postal": "05036",
             "latitud": 6.121430303,
             "longitud": -75.715949663,
@@ -102,7 +102,7 @@
         "model": "general.ciudad",
         "pk": 10,
         "fields": {
-            "nombre": "ANORI",
+            "nombre": "ANORÍ",
             "codigo_postal": "05040",
             "latitud": 7.193110778,
             "longitud": -75.108489539,
@@ -113,7 +113,7 @@
         "model": "general.ciudad",
         "pk": 11,
         "fields": {
-            "nombre": "SANTA FE DE ANTIOQUIA",
+            "nombre": "SANTA FÉ DE ANTIOQUIA",
             "codigo_postal": "05042",
             "latitud": 6.535711576,
             "longitud": -75.904266579,
@@ -124,7 +124,7 @@
         "model": "general.ciudad",
         "pk": 12,
         "fields": {
-            "nombre": "ANZA",
+            "nombre": "ANZÁ",
             "codigo_postal": "05044",
             "latitud": 6.293546613,
             "longitud": -75.917369269,
@@ -135,7 +135,7 @@
         "model": "general.ciudad",
         "pk": 13,
         "fields": {
-            "nombre": "APARTADO",
+            "nombre": "APARTADÓ",
             "codigo_postal": "05045",
             "latitud": 7.86047815,
             "longitud": -76.582362643,
@@ -234,7 +234,7 @@
         "model": "general.ciudad",
         "pk": 22,
         "fields": {
-            "nombre": "CIUDAD BOLIVAR",
+            "nombre": "CIUDAD BOLÍVAR",
             "codigo_postal": "05101",
             "latitud": 5.840995666,
             "longitud": -76.010652526,
@@ -245,7 +245,7 @@
         "model": "general.ciudad",
         "pk": 23,
         "fields": {
-            "nombre": "BRICENO",
+            "nombre": "BRICEÑO",
             "codigo_postal": "05107",
             "latitud": 7.111788462,
             "longitud": -75.562234738,
@@ -256,7 +256,7 @@
         "model": "general.ciudad",
         "pk": 24,
         "fields": {
-            "nombre": "BURITICA",
+            "nombre": "BURITICÁ",
             "codigo_postal": "05113",
             "latitud": 6.80906489,
             "longitud": -75.912065947,
@@ -267,7 +267,7 @@
         "model": "general.ciudad",
         "pk": 25,
         "fields": {
-            "nombre": "CACERES",
+            "nombre": "CÁCERES",
             "codigo_postal": "05120",
             "latitud": 7.665155105,
             "longitud": -75.223697441,
@@ -311,7 +311,7 @@
         "model": "general.ciudad",
         "pk": 29,
         "fields": {
-            "nombre": "CANASGORDAS",
+            "nombre": "CAÑASGORDAS",
             "codigo_postal": "05138",
             "latitud": 6.814950023,
             "longitud": -76.02689632,
@@ -322,7 +322,7 @@
         "model": "general.ciudad",
         "pk": 30,
         "fields": {
-            "nombre": "CARACOLI",
+            "nombre": "CARACOLÍ",
             "codigo_postal": "05142",
             "latitud": 6.33797388,
             "longitud": -74.733548173,
@@ -388,7 +388,7 @@
         "model": "general.ciudad",
         "pk": 36,
         "fields": {
-            "nombre": "CHIGORODO",
+            "nombre": "CHIGORODÓ",
             "codigo_postal": "05172",
             "latitud": 7.631665644,
             "longitud": -76.639642127,
@@ -410,7 +410,7 @@
         "model": "general.ciudad",
         "pk": 38,
         "fields": {
-            "nombre": "COCORNA",
+            "nombre": "COCORNÁ",
             "codigo_postal": "05197",
             "latitud": 6.005593074,
             "longitud": -75.160154033,
@@ -421,7 +421,7 @@
         "model": "general.ciudad",
         "pk": 39,
         "fields": {
-            "nombre": "CONCEPCION",
+            "nombre": "CONCEPCIÓN",
             "codigo_postal": "05206",
             "latitud": 6.376106187,
             "longitud": -75.217859014,
@@ -465,7 +465,7 @@
         "model": "general.ciudad",
         "pk": 43,
         "fields": {
-            "nombre": "DONMATIAS",
+            "nombre": "DONMATÍAS",
             "codigo_postal": "05237",
             "latitud": 6.492403905,
             "longitud": -75.422276872,
@@ -476,7 +476,7 @@
         "model": "general.ciudad",
         "pk": 44,
         "fields": {
-            "nombre": "EBEJICO",
+            "nombre": "EBÉJICO",
             "codigo_postal": "05240",
             "latitud": 6.326444922,
             "longitud": -75.783311748,
@@ -498,7 +498,7 @@
         "model": "general.ciudad",
         "pk": 46,
         "fields": {
-            "nombre": "ENTRERRIOS",
+            "nombre": "ENTRERRÍOS",
             "codigo_postal": "05264",
             "latitud": 6.594656004,
             "longitud": -75.559130833,
@@ -564,7 +564,7 @@
         "model": "general.ciudad",
         "pk": 52,
         "fields": {
-            "nombre": "GOMEZ PLATA",
+            "nombre": "GÓMEZ PLATA",
             "codigo_postal": "05310",
             "latitud": 6.709562839,
             "longitud": -75.192702912,
@@ -608,7 +608,7 @@
         "model": "general.ciudad",
         "pk": 56,
         "fields": {
-            "nombre": "GUATAPE",
+            "nombre": "GUATAPÉ",
             "codigo_postal": "05321",
             "latitud": 6.236329826,
             "longitud": -75.156512723,
@@ -641,7 +641,7 @@
         "model": "general.ciudad",
         "pk": 59,
         "fields": {
-            "nombre": "ITAGUI",
+            "nombre": "ITAGÜÍ",
             "codigo_postal": "05360",
             "latitud": 6.179279438,
             "longitud": -75.614203699,
@@ -663,7 +663,7 @@
         "model": "general.ciudad",
         "pk": 61,
         "fields": {
-            "nombre": "JARDIN",
+            "nombre": "JARDÍN",
             "codigo_postal": "05364",
             "latitud": 5.574444339,
             "longitud": -75.818425748,
@@ -674,7 +674,7 @@
         "model": "general.ciudad",
         "pk": 62,
         "fields": {
-            "nombre": "JERICO",
+            "nombre": "JERICÓ",
             "codigo_postal": "05368",
             "latitud": 5.769820536,
             "longitud": -75.764882556,
@@ -718,7 +718,7 @@
         "model": "general.ciudad",
         "pk": 66,
         "fields": {
-            "nombre": "LA UNION",
+            "nombre": "LA UNIÓN",
             "codigo_postal": "05400",
             "latitud": 5.940434685,
             "longitud": -75.354290227,
@@ -773,7 +773,7 @@
         "model": "general.ciudad",
         "pk": 71,
         "fields": {
-            "nombre": "MURINDO",
+            "nombre": "MURINDÓ",
             "codigo_postal": "05475",
             "latitud": 6.828773855,
             "longitud": -76.708613491,
@@ -784,7 +784,7 @@
         "model": "general.ciudad",
         "pk": 72,
         "fields": {
-            "nombre": "MUTATA",
+            "nombre": "MUTATÁ",
             "codigo_postal": "05480",
             "latitud": 7.329557848,
             "longitud": -76.463065695,
@@ -795,7 +795,7 @@
         "model": "general.ciudad",
         "pk": 73,
         "fields": {
-            "nombre": "NARINO",
+            "nombre": "NARIÑO",
             "codigo_postal": "05483",
             "latitud": 5.581275312,
             "longitud": -75.194570185,
@@ -806,7 +806,7 @@
         "model": "general.ciudad",
         "pk": 74,
         "fields": {
-            "nombre": "NECOCLI",
+            "nombre": "NECOCLÍ",
             "codigo_postal": "05490",
             "latitud": 8.493728551,
             "longitud": -76.676995884,
@@ -817,7 +817,7 @@
         "model": "general.ciudad",
         "pk": 75,
         "fields": {
-            "nombre": "NECHI",
+            "nombre": "NECHÍ",
             "codigo_postal": "05495",
             "latitud": 7.983477394,
             "longitud": -74.65844186,
@@ -839,7 +839,7 @@
         "model": "general.ciudad",
         "pk": 77,
         "fields": {
-            "nombre": "PENOL",
+            "nombre": "PEÑOL",
             "codigo_postal": "05541",
             "latitud": 6.232396368,
             "longitud": -75.223509055,
@@ -872,7 +872,7 @@
         "model": "general.ciudad",
         "pk": 80,
         "fields": {
-            "nombre": "PUERTO BERRIO",
+            "nombre": "PUERTO BERRÍO",
             "codigo_postal": "05579",
             "latitud": 6.481922267,
             "longitud": -74.528742101,
@@ -971,7 +971,7 @@
         "model": "general.ciudad",
         "pk": 89,
         "fields": {
-            "nombre": "SAN ANDRES DE CUERQUIA",
+            "nombre": "SAN ANDRÉS DE CUERQUÍA",
             "codigo_postal": "05647",
             "latitud": 6.918427233,
             "longitud": -75.6657758,
@@ -1004,7 +1004,7 @@
         "model": "general.ciudad",
         "pk": 92,
         "fields": {
-            "nombre": "SAN JERONIMO",
+            "nombre": "SAN JERÓNIMO",
             "codigo_postal": "05656",
             "latitud": 6.438300409,
             "longitud": -75.703107272,
@@ -1015,7 +1015,7 @@
         "model": "general.ciudad",
         "pk": 93,
         "fields": {
-            "nombre": "SAN JOSE DE LA MONTANA",
+            "nombre": "SAN JOSÉ DE LA MONTAÑA",
             "codigo_postal": "05658",
             "latitud": 6.823258913,
             "longitud": -75.677708262,
@@ -1026,7 +1026,7 @@
         "model": "general.ciudad",
         "pk": 94,
         "fields": {
-            "nombre": "SAN JUAN DE URABA",
+            "nombre": "SAN JUAN DE URABÁ",
             "codigo_postal": "05659",
             "latitud": 8.707141583,
             "longitud": -76.532482343,
@@ -1059,7 +1059,7 @@
         "model": "general.ciudad",
         "pk": 97,
         "fields": {
-            "nombre": "SAN PEDRO DE URABA",
+            "nombre": "SAN PEDRO DE URABÁ",
             "codigo_postal": "05665",
             "latitud": 8.37915695,
             "longitud": -76.316642334,
@@ -1103,7 +1103,7 @@
         "model": "general.ciudad",
         "pk": 101,
         "fields": {
-            "nombre": "SANTA BARBARA",
+            "nombre": "SANTA BÁRBARA",
             "codigo_postal": "05679",
             "latitud": 5.878984956,
             "longitud": -75.583303711,
@@ -1158,7 +1158,7 @@
         "model": "general.ciudad",
         "pk": 106,
         "fields": {
-            "nombre": "SONSON",
+            "nombre": "SONSÓN",
             "codigo_postal": "05756",
             "latitud": 5.826388779,
             "longitud": -74.836376225,
@@ -1169,7 +1169,7 @@
         "model": "general.ciudad",
         "pk": 107,
         "fields": {
-            "nombre": "SOPETRAN",
+            "nombre": "SOPETRÁN",
             "codigo_postal": "05761",
             "latitud": 6.520164552,
             "longitud": -75.745809033,
@@ -1180,7 +1180,7 @@
         "model": "general.ciudad",
         "pk": 108,
         "fields": {
-            "nombre": "TAMESIS",
+            "nombre": "TÁMESIS",
             "codigo_postal": "05789",
             "latitud": 5.673758571,
             "longitud": -75.709799743,
@@ -1191,7 +1191,7 @@
         "model": "general.ciudad",
         "pk": 109,
         "fields": {
-            "nombre": "TARAZA",
+            "nombre": "TARAZÁ",
             "codigo_postal": "05790",
             "latitud": 7.488875998,
             "longitud": -75.401894377,
@@ -1213,7 +1213,7 @@
         "model": "general.ciudad",
         "pk": 111,
         "fields": {
-            "nombre": "TITIRIBI",
+            "nombre": "TITIRIBÍ",
             "codigo_postal": "05809",
             "latitud": 6.058349971,
             "longitud": -75.799660047,
@@ -1279,7 +1279,7 @@
         "model": "general.ciudad",
         "pk": 117,
         "fields": {
-            "nombre": "VALPARAISO",
+            "nombre": "VALPARAÍSO",
             "codigo_postal": "05856",
             "latitud": 5.651937802,
             "longitud": -75.630834123,
@@ -1290,7 +1290,7 @@
         "model": "general.ciudad",
         "pk": 118,
         "fields": {
-            "nombre": "VEGACHI",
+            "nombre": "VEGACHÍ",
             "codigo_postal": "05858",
             "latitud": 6.836535122,
             "longitud": -74.754030203,
@@ -1312,7 +1312,7 @@
         "model": "general.ciudad",
         "pk": 120,
         "fields": {
-            "nombre": "VIGIA DEL FUERTE",
+            "nombre": "VIGÍA DEL FUERTE",
             "codigo_postal": "05873",
             "latitud": 6.453351334,
             "longitud": -76.695048017,
@@ -1323,7 +1323,7 @@
         "model": "general.ciudad",
         "pk": 121,
         "fields": {
-            "nombre": "YALI",
+            "nombre": "YALÍ",
             "codigo_postal": "05885",
             "latitud": 6.716870679,
             "longitud": -74.75565002,
@@ -1345,7 +1345,7 @@
         "model": "general.ciudad",
         "pk": 123,
         "fields": {
-            "nombre": "YOLOMBO",
+            "nombre": "YOLOMBÓ",
             "codigo_postal": "05890",
             "latitud": 6.64442786,
             "longitud": -75.029902658,
@@ -1356,7 +1356,7 @@
         "model": "general.ciudad",
         "pk": 124,
         "fields": {
-            "nombre": "YONDO",
+            "nombre": "YONDÓ",
             "codigo_postal": "05893",
             "latitud": 6.925159318,
             "longitud": -74.158240414,
@@ -1466,7 +1466,7 @@
         "model": "general.ciudad",
         "pk": 134,
         "fields": {
-            "nombre": "MANATI",
+            "nombre": "MANATÍ",
             "codigo_postal": "08436",
             "latitud": 10.454145546,
             "longitud": -74.984773669,
@@ -1488,7 +1488,7 @@
         "model": "general.ciudad",
         "pk": 136,
         "fields": {
-            "nombre": "PIOJO",
+            "nombre": "PIOJÓ",
             "codigo_postal": "08549",
             "latitud": 10.740789594,
             "longitud": -75.143660335,
@@ -1532,7 +1532,7 @@
         "model": "general.ciudad",
         "pk": 140,
         "fields": {
-            "nombre": "REPELON",
+            "nombre": "REPELÓN",
             "codigo_postal": "08606",
             "latitud": 10.507570513,
             "longitud": -75.121880527,
@@ -1565,7 +1565,7 @@
         "model": "general.ciudad",
         "pk": 143,
         "fields": {
-            "nombre": "SANTA LUCIA",
+            "nombre": "SANTA LUCÍA",
             "codigo_postal": "08675",
             "latitud": 10.35364192,
             "longitud": -74.965411787,
@@ -1576,7 +1576,7 @@
         "model": "general.ciudad",
         "pk": 144,
         "fields": {
-            "nombre": "SANTO TOMAS",
+            "nombre": "SANTO TOMÁS",
             "codigo_postal": "08685",
             "latitud": 10.755626561,
             "longitud": -74.78726468,
@@ -1609,7 +1609,7 @@
         "model": "general.ciudad",
         "pk": 147,
         "fields": {
-            "nombre": "TUBARA",
+            "nombre": "TUBARÁ",
             "codigo_postal": "08832",
             "latitud": 10.907219384,
             "longitud": -74.98423293,
@@ -1620,7 +1620,7 @@
         "model": "general.ciudad",
         "pk": 148,
         "fields": {
-            "nombre": "USIACURI",
+            "nombre": "USIACURÍ",
             "codigo_postal": "08849",
             "latitud": 10.740522657,
             "longitud": -74.982674126,
@@ -1631,7 +1631,7 @@
         "model": "general.ciudad",
         "pk": 149,
         "fields": {
-            "nombre": "BOGOTA, D.C.",
+            "nombre": "BOGOTÁ, D.C.",
             "codigo_postal": "11001",
             "latitud": 4.316107698,
             "longitud": -74.181072702,
@@ -1653,7 +1653,7 @@
         "model": "general.ciudad",
         "pk": 151,
         "fields": {
-            "nombre": "ACHI",
+            "nombre": "ACHÍ",
             "codigo_postal": "13006",
             "latitud": 8.622943262,
             "longitud": -74.478059448,
@@ -1752,7 +1752,7 @@
         "model": "general.ciudad",
         "pk": 160,
         "fields": {
-            "nombre": "CORDOBA",
+            "nombre": "CÓRDOBA",
             "codigo_postal": "13212",
             "latitud": 9.540047515,
             "longitud": -74.894456346,
@@ -1774,7 +1774,7 @@
         "model": "general.ciudad",
         "pk": 162,
         "fields": {
-            "nombre": "EL CARMEN DE BOLIVAR",
+            "nombre": "EL CARMEN DE BOLÍVAR",
             "codigo_postal": "13244",
             "latitud": 9.699819876,
             "longitud": -75.157935726,
@@ -1796,7 +1796,7 @@
         "model": "general.ciudad",
         "pk": 164,
         "fields": {
-            "nombre": "EL PENON",
+            "nombre": "EL PEÑÓN",
             "codigo_postal": "13268",
             "latitud": 8.864818786,
             "longitud": -73.912301472,
@@ -1818,7 +1818,7 @@
         "model": "general.ciudad",
         "pk": 166,
         "fields": {
-            "nombre": "MAGANGUE",
+            "nombre": "MAGANGUÉ",
             "codigo_postal": "13430",
             "latitud": 9.053135895,
             "longitud": -74.705393181,
@@ -1851,7 +1851,7 @@
         "model": "general.ciudad",
         "pk": 169,
         "fields": {
-            "nombre": "MARIA LA BAJA",
+            "nombre": "MARÍA LA BAJA",
             "codigo_postal": "13442",
             "latitud": 9.976017168,
             "longitud": -75.343802649,
@@ -1895,7 +1895,7 @@
         "model": "general.ciudad",
         "pk": 173,
         "fields": {
-            "nombre": "NOROSI",
+            "nombre": "NOROSÍ",
             "codigo_postal": "13490",
             "latitud": 8.50613476,
             "longitud": -74.115889115,
@@ -1928,7 +1928,7 @@
         "model": "general.ciudad",
         "pk": 176,
         "fields": {
-            "nombre": "RIO VIEJO",
+            "nombre": "RÍO VIEJO",
             "codigo_postal": "13600",
             "latitud": 8.559982465,
             "longitud": -73.902986677,
@@ -1939,7 +1939,7 @@
         "model": "general.ciudad",
         "pk": 177,
         "fields": {
-            "nombre": "SAN CRISTOBAL",
+            "nombre": "SAN CRISTÓBAL",
             "codigo_postal": "13620",
             "latitud": 10.369720871,
             "longitud": -75.073338352,
@@ -2005,7 +2005,7 @@
         "model": "general.ciudad",
         "pk": 183,
         "fields": {
-            "nombre": "SAN MARTIN DE LOBA",
+            "nombre": "SAN MARTÍN DE LOBA",
             "codigo_postal": "13667",
             "latitud": 8.816088444,
             "longitud": -74.005999668,
@@ -2060,7 +2060,7 @@
         "model": "general.ciudad",
         "pk": 188,
         "fields": {
-            "nombre": "SIMITI",
+            "nombre": "SIMITÍ",
             "codigo_postal": "13744",
             "latitud": 7.851315534,
             "longitud": -73.983716091,
@@ -2192,7 +2192,7 @@
         "model": "general.ciudad",
         "pk": 200,
         "fields": {
-            "nombre": "BELEN",
+            "nombre": "BELÉN",
             "codigo_postal": "15087",
             "latitud": 6.005059265,
             "longitud": -72.893698873,
@@ -2214,7 +2214,7 @@
         "model": "general.ciudad",
         "pk": 202,
         "fields": {
-            "nombre": "BETEITIVA",
+            "nombre": "BETÉITIVA",
             "codigo_postal": "15092",
             "latitud": 5.920858933,
             "longitud": -72.848578763,
@@ -2236,7 +2236,7 @@
         "model": "general.ciudad",
         "pk": 204,
         "fields": {
-            "nombre": "BOYACA",
+            "nombre": "BOYACÁ",
             "codigo_postal": "15104",
             "latitud": 5.439856216,
             "longitud": -73.381369938,
@@ -2247,7 +2247,7 @@
         "model": "general.ciudad",
         "pk": 205,
         "fields": {
-            "nombre": "BRICENO",
+            "nombre": "BRICEÑO",
             "codigo_postal": "15106",
             "latitud": 5.673229265,
             "longitud": -73.926607047,
@@ -2269,7 +2269,7 @@
         "model": "general.ciudad",
         "pk": 207,
         "fields": {
-            "nombre": "BUSBANZA",
+            "nombre": "BUSBANZÁ",
             "codigo_postal": "15114",
             "latitud": 5.843483731,
             "longitud": -72.87574623,
@@ -2324,7 +2324,7 @@
         "model": "general.ciudad",
         "pk": 212,
         "fields": {
-            "nombre": "CHIQUINQUIRA",
+            "nombre": "CHIQUINQUIRÁ",
             "codigo_postal": "15176",
             "latitud": 5.622488024,
             "longitud": -73.804245312,
@@ -2368,7 +2368,7 @@
         "model": "general.ciudad",
         "pk": 216,
         "fields": {
-            "nombre": "CHIVATA",
+            "nombre": "CHIVATÁ",
             "codigo_postal": "15187",
             "latitud": 5.556830465,
             "longitud": -73.260617153,
@@ -2379,7 +2379,7 @@
         "model": "general.ciudad",
         "pk": 217,
         "fields": {
-            "nombre": "CIENEGA",
+            "nombre": "CIÉNEGA",
             "codigo_postal": "15189",
             "latitud": 5.393059633,
             "longitud": -73.282057716,
@@ -2390,7 +2390,7 @@
         "model": "general.ciudad",
         "pk": 218,
         "fields": {
-            "nombre": "COMBITA",
+            "nombre": "CÓMBITA",
             "codigo_postal": "15204",
             "latitud": 5.667822366,
             "longitud": -73.321370491,
@@ -2423,7 +2423,7 @@
         "model": "general.ciudad",
         "pk": 221,
         "fields": {
-            "nombre": "COVARACHIA",
+            "nombre": "COVARACHÍA",
             "codigo_postal": "15218",
             "latitud": 6.519521476,
             "longitud": -72.740204209,
@@ -2434,7 +2434,7 @@
         "model": "general.ciudad",
         "pk": 222,
         "fields": {
-            "nombre": "CUBARA",
+            "nombre": "CUBARÁ",
             "codigo_postal": "15223",
             "latitud": 6.886954878,
             "longitud": -72.181562849,
@@ -2456,7 +2456,7 @@
         "model": "general.ciudad",
         "pk": 224,
         "fields": {
-            "nombre": "CUITIVA",
+            "nombre": "CUÍTIVA",
             "codigo_postal": "15226",
             "latitud": 5.58775449,
             "longitud": -72.939536863,
@@ -2467,7 +2467,7 @@
         "model": "general.ciudad",
         "pk": 225,
         "fields": {
-            "nombre": "CHIQUIZA",
+            "nombre": "CHÍQUIZA",
             "codigo_postal": "15232",
             "latitud": 5.643075648,
             "longitud": -73.445623907,
@@ -2544,7 +2544,7 @@
         "model": "general.ciudad",
         "pk": 232,
         "fields": {
-            "nombre": "GACHANTIVA",
+            "nombre": "GACHANTIVÁ",
             "codigo_postal": "15293",
             "latitud": 5.744105975,
             "longitud": -73.542655196,
@@ -2555,7 +2555,7 @@
         "model": "general.ciudad",
         "pk": 233,
         "fields": {
-            "nombre": "GAMEZA",
+            "nombre": "GÁMEZA",
             "codigo_postal": "15296",
             "latitud": 5.799050256,
             "longitud": -72.729647651,
@@ -2599,7 +2599,7 @@
         "model": "general.ciudad",
         "pk": 237,
         "fields": {
-            "nombre": "GUAYATA",
+            "nombre": "GUAYATÁ",
             "codigo_postal": "15325",
             "latitud": 4.931424341,
             "longitud": -73.496633724,
@@ -2610,7 +2610,7 @@
         "model": "general.ciudad",
         "pk": 238,
         "fields": {
-            "nombre": "GUICAN DE LA SIERRA",
+            "nombre": "GÜICÁN DE LA SIERRA",
             "codigo_postal": "15332",
             "latitud": 6.566991765,
             "longitud": -72.255993335,
@@ -2643,7 +2643,7 @@
         "model": "general.ciudad",
         "pk": 241,
         "fields": {
-            "nombre": "JERICO",
+            "nombre": "JERICÓ",
             "codigo_postal": "15368",
             "latitud": 6.155633662,
             "longitud": -72.585230926,
@@ -2720,7 +2720,7 @@
         "model": "general.ciudad",
         "pk": 248,
         "fields": {
-            "nombre": "MARIPI",
+            "nombre": "MARIPÍ",
             "codigo_postal": "15442",
             "latitud": 5.569810633,
             "longitud": -74.020031272,
@@ -2753,7 +2753,7 @@
         "model": "general.ciudad",
         "pk": 251,
         "fields": {
-            "nombre": "MONGUI",
+            "nombre": "MONGUÍ",
             "codigo_postal": "15466",
             "latitud": 5.697352228,
             "longitud": -72.832986642,
@@ -2764,7 +2764,7 @@
         "model": "general.ciudad",
         "pk": 252,
         "fields": {
-            "nombre": "MONIQUIRA",
+            "nombre": "MONIQUIRÁ",
             "codigo_postal": "15469",
             "latitud": 5.863370485,
             "longitud": -73.558525378,
@@ -2808,7 +2808,7 @@
         "model": "general.ciudad",
         "pk": 256,
         "fields": {
-            "nombre": "NUEVO COLON",
+            "nombre": "NUEVO COLÓN",
             "codigo_postal": "15494",
             "latitud": 5.354701485,
             "longitud": -73.448734241,
@@ -2819,7 +2819,7 @@
         "model": "general.ciudad",
         "pk": 257,
         "fields": {
-            "nombre": "OICATA",
+            "nombre": "OICATÁ",
             "codigo_postal": "15500",
             "latitud": 5.610787844,
             "longitud": -73.279919053,
@@ -2852,7 +2852,7 @@
         "model": "general.ciudad",
         "pk": 260,
         "fields": {
-            "nombre": "PAEZ",
+            "nombre": "PÁEZ",
             "codigo_postal": "15514",
             "latitud": 5.095211035,
             "longitud": -73.004358626,
@@ -2918,7 +2918,7 @@
         "model": "general.ciudad",
         "pk": 266,
         "fields": {
-            "nombre": "PAZ DE RIO",
+            "nombre": "PAZ DE RÍO",
             "codigo_postal": "15537",
             "latitud": 6.030008561,
             "longitud": -72.759880177,
@@ -2951,7 +2951,7 @@
         "model": "general.ciudad",
         "pk": 269,
         "fields": {
-            "nombre": "PUERTO BOYACA",
+            "nombre": "PUERTO BOYACÁ",
             "codigo_postal": "15572",
             "latitud": 5.953466654,
             "longitud": -74.452858102,
@@ -2962,7 +2962,7 @@
         "model": "general.ciudad",
         "pk": 270,
         "fields": {
-            "nombre": "QUIPAMA",
+            "nombre": "QUÍPAMA",
             "codigo_postal": "15580",
             "latitud": 5.595729831,
             "longitud": -74.268570671,
@@ -2973,7 +2973,7 @@
         "model": "general.ciudad",
         "pk": 271,
         "fields": {
-            "nombre": "RAMIRIQUI",
+            "nombre": "RAMIRIQUÍ",
             "codigo_postal": "15599",
             "latitud": 5.319934092,
             "longitud": -73.310778996,
@@ -2984,7 +2984,7 @@
         "model": "general.ciudad",
         "pk": 272,
         "fields": {
-            "nombre": "RAQUIRA",
+            "nombre": "RÁQUIRA",
             "codigo_postal": "15600",
             "latitud": 5.496268621,
             "longitud": -73.628944376,
@@ -2995,7 +2995,7 @@
         "model": "general.ciudad",
         "pk": 273,
         "fields": {
-            "nombre": "RONDON",
+            "nombre": "RONDÓN",
             "codigo_postal": "15621",
             "latitud": 5.379947879,
             "longitud": -73.196509947,
@@ -3006,7 +3006,7 @@
         "model": "general.ciudad",
         "pk": 274,
         "fields": {
-            "nombre": "SABOYA",
+            "nombre": "SABOYÁ",
             "codigo_postal": "15632",
             "latitud": 5.699926051,
             "longitud": -73.747994656,
@@ -3017,7 +3017,7 @@
         "model": "general.ciudad",
         "pk": 275,
         "fields": {
-            "nombre": "SACHICA",
+            "nombre": "SÁCHICA",
             "codigo_postal": "15638",
             "latitud": 5.573464882,
             "longitud": -73.543102003,
@@ -3028,7 +3028,7 @@
         "model": "general.ciudad",
         "pk": 276,
         "fields": {
-            "nombre": "SAMACA",
+            "nombre": "SAMACÁ",
             "codigo_postal": "15646",
             "latitud": 5.47053997,
             "longitud": -73.521175604,
@@ -3050,7 +3050,7 @@
         "model": "general.ciudad",
         "pk": 278,
         "fields": {
-            "nombre": "SAN JOSE DE PARE",
+            "nombre": "SAN JOSÉ DE PARE",
             "codigo_postal": "15664",
             "latitud": 5.994154088,
             "longitud": -73.543865224,
@@ -3116,7 +3116,7 @@
         "model": "general.ciudad",
         "pk": 284,
         "fields": {
-            "nombre": "SANTA MARIA",
+            "nombre": "SANTA MARÍA",
             "codigo_postal": "15690",
             "latitud": 4.823002556,
             "longitud": -73.253775062,
@@ -3138,7 +3138,7 @@
         "model": "general.ciudad",
         "pk": 286,
         "fields": {
-            "nombre": "SANTA SOFIA",
+            "nombre": "SANTA SOFÍA",
             "codigo_postal": "15696",
             "latitud": 5.731602716,
             "longitud": -73.603662869,
@@ -3182,7 +3182,7 @@
         "model": "general.ciudad",
         "pk": 290,
         "fields": {
-            "nombre": "SOATA",
+            "nombre": "SOATÁ",
             "codigo_postal": "15753",
             "latitud": 6.323088045,
             "longitud": -72.696040893,
@@ -3193,7 +3193,7 @@
         "model": "general.ciudad",
         "pk": 291,
         "fields": {
-            "nombre": "SOCOTA",
+            "nombre": "SOCOTÁ",
             "codigo_postal": "15755",
             "latitud": 5.906513772,
             "longitud": -72.536463605,
@@ -3248,7 +3248,7 @@
         "model": "general.ciudad",
         "pk": 296,
         "fields": {
-            "nombre": "SOTAQUIRA",
+            "nombre": "SOTAQUIRÁ",
             "codigo_postal": "15763",
             "latitud": 5.763010553,
             "longitud": -73.24352232,
@@ -3259,7 +3259,7 @@
         "model": "general.ciudad",
         "pk": 297,
         "fields": {
-            "nombre": "SORACA",
+            "nombre": "SORACÁ",
             "codigo_postal": "15764",
             "latitud": 5.494890461,
             "longitud": -73.318999965,
@@ -3270,7 +3270,7 @@
         "model": "general.ciudad",
         "pk": 298,
         "fields": {
-            "nombre": "SUSACON",
+            "nombre": "SUSACÓN",
             "codigo_postal": "15774",
             "latitud": 6.215200578,
             "longitud": -72.715756341,
@@ -3281,7 +3281,7 @@
         "model": "general.ciudad",
         "pk": 299,
         "fields": {
-            "nombre": "SUTAMARCHAN",
+            "nombre": "SUTAMARCHÁN",
             "codigo_postal": "15776",
             "latitud": 5.640030759,
             "longitud": -73.625987727,
@@ -3325,7 +3325,7 @@
         "model": "general.ciudad",
         "pk": 303,
         "fields": {
-            "nombre": "TIBANA",
+            "nombre": "TIBANÁ",
             "codigo_postal": "15804",
             "latitud": 5.301116649,
             "longitud": -73.393252095,
@@ -3347,7 +3347,7 @@
         "model": "general.ciudad",
         "pk": 305,
         "fields": {
-            "nombre": "TINJACA",
+            "nombre": "TINJACÁ",
             "codigo_postal": "15808",
             "latitud": 5.577566497,
             "longitud": -73.676145721,
@@ -3380,7 +3380,7 @@
         "model": "general.ciudad",
         "pk": 308,
         "fields": {
-            "nombre": "TOGUI",
+            "nombre": "TOGÜÍ",
             "codigo_postal": "15816",
             "latitud": 5.921830062,
             "longitud": -73.489218055,
@@ -3391,7 +3391,7 @@
         "model": "general.ciudad",
         "pk": 309,
         "fields": {
-            "nombre": "TOPAGA",
+            "nombre": "TÓPAGA",
             "codigo_postal": "15820",
             "latitud": 5.765350303,
             "longitud": -72.836729576,
@@ -3413,7 +3413,7 @@
         "model": "general.ciudad",
         "pk": 311,
         "fields": {
-            "nombre": "TUNUNGUA",
+            "nombre": "TUNUNGUÁ",
             "codigo_postal": "15832",
             "latitud": 5.720301516,
             "longitud": -73.943309265,
@@ -3424,7 +3424,7 @@
         "model": "general.ciudad",
         "pk": 312,
         "fields": {
-            "nombre": "TURMEQUE",
+            "nombre": "TURMEQUÉ",
             "codigo_postal": "15835",
             "latitud": 5.305697418,
             "longitud": -73.509087138,
@@ -3446,7 +3446,7 @@
         "model": "general.ciudad",
         "pk": 314,
         "fields": {
-            "nombre": "TUTAZA",
+            "nombre": "TUTAZÁ",
             "codigo_postal": "15839",
             "latitud": 6.078051903,
             "longitud": -72.857078319,
@@ -3457,7 +3457,7 @@
         "model": "general.ciudad",
         "pk": 315,
         "fields": {
-            "nombre": "UMBITA",
+            "nombre": "ÚMBITA",
             "codigo_postal": "15842",
             "latitud": 5.217241368,
             "longitud": -73.463384768,
@@ -3479,7 +3479,7 @@
         "model": "general.ciudad",
         "pk": 317,
         "fields": {
-            "nombre": "VIRACACHA",
+            "nombre": "VIRACACHÁ",
             "codigo_postal": "15879",
             "latitud": 5.440558216,
             "longitud": -73.266274556,
@@ -3545,7 +3545,7 @@
         "model": "general.ciudad",
         "pk": 323,
         "fields": {
-            "nombre": "BELALCAZAR",
+            "nombre": "BELALCÁZAR",
             "codigo_postal": "17088",
             "latitud": 4.99467728,
             "longitud": -75.812259892,
@@ -3556,7 +3556,7 @@
         "model": "general.ciudad",
         "pk": 324,
         "fields": {
-            "nombre": "CHINCHINA",
+            "nombre": "CHINCHINÁ",
             "codigo_postal": "17174",
             "latitud": 4.974340569,
             "longitud": -75.659546861,
@@ -3666,7 +3666,7 @@
         "model": "general.ciudad",
         "pk": 334,
         "fields": {
-            "nombre": "PACORA",
+            "nombre": "PÁCORA",
             "codigo_postal": "17513",
             "latitud": 5.500035035,
             "longitud": -75.482450565,
@@ -3732,7 +3732,7 @@
         "model": "general.ciudad",
         "pk": 340,
         "fields": {
-            "nombre": "SAMANA",
+            "nombre": "SAMANÁ",
             "codigo_postal": "17662",
             "latitud": 5.519692873,
             "longitud": -74.99718577,
@@ -3743,7 +3743,7 @@
         "model": "general.ciudad",
         "pk": 341,
         "fields": {
-            "nombre": "SAN JOSE",
+            "nombre": "SAN JOSÉ",
             "codigo_postal": "17665",
             "latitud": 5.083424513,
             "longitud": -75.810178904,
@@ -3754,7 +3754,7 @@
         "model": "general.ciudad",
         "pk": 342,
         "fields": {
-            "nombre": "SUPIA",
+            "nombre": "SUPÍA",
             "codigo_postal": "17777",
             "latitud": 5.45295802,
             "longitud": -75.640357045,
@@ -3776,7 +3776,7 @@
         "model": "general.ciudad",
         "pk": 344,
         "fields": {
-            "nombre": "VILLAMARIA",
+            "nombre": "VILLAMARÍA",
             "codigo_postal": "17873",
             "latitud": 4.940211591,
             "longitud": -75.435440137,
@@ -3820,7 +3820,7 @@
         "model": "general.ciudad",
         "pk": 348,
         "fields": {
-            "nombre": "BELEN DE LOS ANDAQUIES",
+            "nombre": "BELÉN DE LOS ANDAQUÍES",
             "codigo_postal": "18094",
             "latitud": 1.536174657,
             "longitud": -75.909475036,
@@ -3831,7 +3831,7 @@
         "model": "general.ciudad",
         "pk": 349,
         "fields": {
-            "nombre": "CARTAGENA DEL CHAIRA",
+            "nombre": "CARTAGENA DEL CHAIRÁ",
             "codigo_postal": "18150",
             "latitud": 0.647693081,
             "longitud": -74.272354991,
@@ -3864,7 +3864,7 @@
         "model": "general.ciudad",
         "pk": 352,
         "fields": {
-            "nombre": "EL PAUJIL",
+            "nombre": "EL PAUJÍL",
             "codigo_postal": "18256",
             "latitud": 1.476630016,
             "longitud": -75.202318246,
@@ -3875,7 +3875,7 @@
         "model": "general.ciudad",
         "pk": 353,
         "fields": {
-            "nombre": "LA MONTANITA",
+            "nombre": "LA MONTAÑITA",
             "codigo_postal": "18410",
             "latitud": 1.302860442,
             "longitud": -75.235727319,
@@ -3886,7 +3886,7 @@
         "model": "general.ciudad",
         "pk": 354,
         "fields": {
-            "nombre": "MILAN",
+            "nombre": "MILÁN",
             "codigo_postal": "18460",
             "latitud": 1.146692554,
             "longitud": -75.386647638,
@@ -3919,7 +3919,7 @@
         "model": "general.ciudad",
         "pk": 357,
         "fields": {
-            "nombre": "SAN JOSE DEL FRAGUA",
+            "nombre": "SAN JOSÉ DEL FRAGUA",
             "codigo_postal": "18610",
             "latitud": 1.304702314,
             "longitud": -76.110005942,
@@ -3930,7 +3930,7 @@
         "model": "general.ciudad",
         "pk": 358,
         "fields": {
-            "nombre": "SAN VICENTE DEL CAGUAN",
+            "nombre": "SAN VICENTE DEL CAGUÁN",
             "codigo_postal": "18753",
             "latitud": 1.308465061,
             "longitud": -74.197469706,
@@ -3963,7 +3963,7 @@
         "model": "general.ciudad",
         "pk": 361,
         "fields": {
-            "nombre": "VALPARAISO",
+            "nombre": "VALPARAÍSO",
             "codigo_postal": "18860",
             "latitud": 1.07534915,
             "longitud": -75.737790038,
@@ -3974,7 +3974,7 @@
         "model": "general.ciudad",
         "pk": 362,
         "fields": {
-            "nombre": "POPAYAN",
+            "nombre": "POPAYÁN",
             "codigo_postal": "19001",
             "latitud": 2.471704362,
             "longitud": -76.591944191,
@@ -4018,7 +4018,7 @@
         "model": "general.ciudad",
         "pk": 366,
         "fields": {
-            "nombre": "BOLIVAR",
+            "nombre": "BOLÍVAR",
             "codigo_postal": "19100",
             "latitud": 1.853951938,
             "longitud": -76.963374538,
@@ -4040,7 +4040,7 @@
         "model": "general.ciudad",
         "pk": 368,
         "fields": {
-            "nombre": "CAJIBIO",
+            "nombre": "CAJIBÍO",
             "codigo_postal": "19130",
             "latitud": 2.643209848,
             "longitud": -76.701389144,
@@ -4106,7 +4106,7 @@
         "model": "general.ciudad",
         "pk": 374,
         "fields": {
-            "nombre": "GUACHENE",
+            "nombre": "GUACHENÉ",
             "codigo_postal": "19300",
             "latitud": 3.144389993,
             "longitud": -76.392348107,
@@ -4128,7 +4128,7 @@
         "model": "general.ciudad",
         "pk": 376,
         "fields": {
-            "nombre": "INZA",
+            "nombre": "INZÁ",
             "codigo_postal": "19355",
             "latitud": 2.499058783,
             "longitud": -76.137625312,
@@ -4139,7 +4139,7 @@
         "model": "general.ciudad",
         "pk": 377,
         "fields": {
-            "nombre": "JAMBALO",
+            "nombre": "JAMBALÓ",
             "codigo_postal": "19364",
             "latitud": 2.84981013,
             "longitud": -76.31124919,
@@ -4172,7 +4172,7 @@
         "model": "general.ciudad",
         "pk": 380,
         "fields": {
-            "nombre": "LOPEZ DE MICAY",
+            "nombre": "LÓPEZ DE MICAY",
             "codigo_postal": "19418",
             "latitud": 2.95819877,
             "longitud": -77.242121575,
@@ -4227,7 +4227,7 @@
         "model": "general.ciudad",
         "pk": 385,
         "fields": {
-            "nombre": "PAEZ",
+            "nombre": "PÁEZ",
             "codigo_postal": "19517",
             "latitud": 2.733887702,
             "longitud": -75.993682638,
@@ -4238,7 +4238,7 @@
         "model": "general.ciudad",
         "pk": 386,
         "fields": {
-            "nombre": "PATIA",
+            "nombre": "PATÍA",
             "codigo_postal": "19532",
             "latitud": 2.157983906,
             "longitud": -77.046576199,
@@ -4260,7 +4260,7 @@
         "model": "general.ciudad",
         "pk": 388,
         "fields": {
-            "nombre": "PIENDAMO - TUNIA",
+            "nombre": "PIENDAMÓ - TUNÍA",
             "codigo_postal": "19548",
             "latitud": 2.702420026,
             "longitud": -76.537704551,
@@ -4282,7 +4282,7 @@
         "model": "general.ciudad",
         "pk": 390,
         "fields": {
-            "nombre": "PURACE",
+            "nombre": "PURACÉ",
             "codigo_postal": "19585",
             "latitud": 2.262153618,
             "longitud": -76.448269377,
@@ -4304,7 +4304,7 @@
         "model": "general.ciudad",
         "pk": 392,
         "fields": {
-            "nombre": "SAN SEBASTIAN",
+            "nombre": "SAN SEBASTIÁN",
             "codigo_postal": "19693",
             "latitud": 1.856261815,
             "longitud": -76.716524236,
@@ -4348,7 +4348,7 @@
         "model": "general.ciudad",
         "pk": 396,
         "fields": {
-            "nombre": "SOTARA PAISPAMBA",
+            "nombre": "SOTARÁ PAISPAMBA",
             "codigo_postal": "19760",
             "latitud": 2.231820541,
             "longitud": -76.611466326,
@@ -4359,7 +4359,7 @@
         "model": "general.ciudad",
         "pk": 397,
         "fields": {
-            "nombre": "SUAREZ",
+            "nombre": "SUÁREZ",
             "codigo_postal": "19780",
             "latitud": 2.936865997,
             "longitud": -76.745824296,
@@ -4381,7 +4381,7 @@
         "model": "general.ciudad",
         "pk": 399,
         "fields": {
-            "nombre": "TIMBIO",
+            "nombre": "TIMBÍO",
             "codigo_postal": "19807",
             "latitud": 2.369625312,
             "longitud": -76.710519323,
@@ -4392,7 +4392,7 @@
         "model": "general.ciudad",
         "pk": 400,
         "fields": {
-            "nombre": "TIMBIQUI",
+            "nombre": "TIMBIQUÍ",
             "codigo_postal": "19809",
             "latitud": 2.699475127,
             "longitud": -77.491315765,
@@ -4403,7 +4403,7 @@
         "model": "general.ciudad",
         "pk": 401,
         "fields": {
-            "nombre": "TORIBIO",
+            "nombre": "TORIBÍO",
             "codigo_postal": "19821",
             "latitud": 2.975771999,
             "longitud": -76.203315664,
@@ -4414,7 +4414,7 @@
         "model": "general.ciudad",
         "pk": 402,
         "fields": {
-            "nombre": "TOTORO",
+            "nombre": "TOTORÓ",
             "codigo_postal": "19824",
             "latitud": 2.475213085,
             "longitud": -76.39675937,
@@ -4458,7 +4458,7 @@
         "model": "general.ciudad",
         "pk": 406,
         "fields": {
-            "nombre": "AGUSTIN CODAZZI",
+            "nombre": "AGUSTÍN CODAZZI",
             "codigo_postal": "20013",
             "latitud": 9.949215908,
             "longitud": -73.223582441,
@@ -4513,7 +4513,7 @@
         "model": "general.ciudad",
         "pk": 411,
         "fields": {
-            "nombre": "CHIRIGUANA",
+            "nombre": "CHIRIGUANÁ",
             "codigo_postal": "20178",
             "latitud": 9.426648354,
             "longitud": -73.547978944,
@@ -4524,7 +4524,7 @@
         "model": "general.ciudad",
         "pk": 412,
         "fields": {
-            "nombre": "CURUMANI",
+            "nombre": "CURUMANÍ",
             "codigo_postal": "20228",
             "latitud": 9.238771332,
             "longitud": -73.488108612,
@@ -4568,7 +4568,7 @@
         "model": "general.ciudad",
         "pk": 416,
         "fields": {
-            "nombre": "GONZALEZ",
+            "nombre": "GONZÁLEZ",
             "codigo_postal": "20310",
             "latitud": 8.405516522,
             "longitud": -73.375373085,
@@ -4601,7 +4601,7 @@
         "model": "general.ciudad",
         "pk": 419,
         "fields": {
-            "nombre": "MANAURE BALCON DEL CESAR",
+            "nombre": "MANAURE BALCÓN DEL CESAR",
             "codigo_postal": "20443",
             "latitud": 10.38027852,
             "longitud": -73.007062754,
@@ -4645,7 +4645,7 @@
         "model": "general.ciudad",
         "pk": 423,
         "fields": {
-            "nombre": "RIO DE ORO",
+            "nombre": "RÍO DE ORO",
             "codigo_postal": "20614",
             "latitud": 8.201070245,
             "longitud": -73.487501265,
@@ -4689,7 +4689,7 @@
         "model": "general.ciudad",
         "pk": 427,
         "fields": {
-            "nombre": "SAN MARTIN",
+            "nombre": "SAN MARTÍN",
             "codigo_postal": "20770",
             "latitud": 7.937788454,
             "longitud": -73.544363121,
@@ -4711,7 +4711,7 @@
         "model": "general.ciudad",
         "pk": 429,
         "fields": {
-            "nombre": "MONTERIA",
+            "nombre": "MONTERÍA",
             "codigo_postal": "23001",
             "latitud": 8.584698016,
             "longitud": -75.950550788,
@@ -4755,7 +4755,7 @@
         "model": "general.ciudad",
         "pk": 433,
         "fields": {
-            "nombre": "CERETE",
+            "nombre": "CERETÉ",
             "codigo_postal": "23162",
             "latitud": 8.895667051,
             "longitud": -75.878423912,
@@ -4766,7 +4766,7 @@
         "model": "general.ciudad",
         "pk": 434,
         "fields": {
-            "nombre": "CHIMA",
+            "nombre": "CHIMÁ",
             "codigo_postal": "23168",
             "latitud": 9.11024941,
             "longitud": -75.652373511,
@@ -4777,7 +4777,7 @@
         "model": "general.ciudad",
         "pk": 435,
         "fields": {
-            "nombre": "CHINU",
+            "nombre": "CHINÚ",
             "codigo_postal": "23182",
             "latitud": 9.053287104,
             "longitud": -75.373873626,
@@ -4788,7 +4788,7 @@
         "model": "general.ciudad",
         "pk": 436,
         "fields": {
-            "nombre": "CIENAGA DE ORO",
+            "nombre": "CIÉNAGA DE ORO",
             "codigo_postal": "23189",
             "latitud": 8.841811894,
             "longitud": -75.607798292,
@@ -4832,7 +4832,7 @@
         "model": "general.ciudad",
         "pk": 440,
         "fields": {
-            "nombre": "LOS CORDOBAS",
+            "nombre": "LOS CÓRDOBAS",
             "codigo_postal": "23419",
             "latitud": 8.823307063,
             "longitud": -76.343055201,
@@ -4854,7 +4854,7 @@
         "model": "general.ciudad",
         "pk": 442,
         "fields": {
-            "nombre": "MONTELIBANO",
+            "nombre": "MONTELÍBANO",
             "codigo_postal": "23466",
             "latitud": 7.866432635,
             "longitud": -75.875339255,
@@ -4865,7 +4865,7 @@
         "model": "general.ciudad",
         "pk": 443,
         "fields": {
-            "nombre": "MONITOS",
+            "nombre": "MOÑITOS",
             "codigo_postal": "23500",
             "latitud": 9.190515343,
             "longitud": -76.119317094,
@@ -4920,7 +4920,7 @@
         "model": "general.ciudad",
         "pk": 448,
         "fields": {
-            "nombre": "PURISIMA DE LA CONCEPCION",
+            "nombre": "PURÍSIMA DE LA CONCEPCIÓN",
             "codigo_postal": "23586",
             "latitud": 9.282386127,
             "longitud": -75.721293921,
@@ -4931,7 +4931,7 @@
         "model": "general.ciudad",
         "pk": 449,
         "fields": {
-            "nombre": "SAHAGUN",
+            "nombre": "SAHAGÚN",
             "codigo_postal": "23660",
             "latitud": 8.799007016,
             "longitud": -75.429256639,
@@ -4942,7 +4942,7 @@
         "model": "general.ciudad",
         "pk": 450,
         "fields": {
-            "nombre": "SAN ANDRES DE SOTAVENTO",
+            "nombre": "SAN ANDRÉS DE SOTAVENTO",
             "codigo_postal": "23670",
             "latitud": 9.121296353,
             "longitud": -75.520917113,
@@ -4986,7 +4986,7 @@
         "model": "general.ciudad",
         "pk": 454,
         "fields": {
-            "nombre": "SAN JOSE DE URE",
+            "nombre": "SAN JOSÉ DE URÉ",
             "codigo_postal": "23682",
             "latitud": 7.753054395,
             "longitud": -75.567247397,
@@ -5019,7 +5019,7 @@
         "model": "general.ciudad",
         "pk": 457,
         "fields": {
-            "nombre": "TUCHIN",
+            "nombre": "TUCHÍN",
             "codigo_postal": "23815",
             "latitud": 9.224630803,
             "longitud": -75.544105925,
@@ -5052,7 +5052,7 @@
         "model": "general.ciudad",
         "pk": 460,
         "fields": {
-            "nombre": "ALBAN",
+            "nombre": "ALBÁN",
             "codigo_postal": "25019",
             "latitud": 4.891121638,
             "longitud": -74.442784317,
@@ -5085,7 +5085,7 @@
         "model": "general.ciudad",
         "pk": 463,
         "fields": {
-            "nombre": "ARBELAEZ",
+            "nombre": "ARBELÁEZ",
             "codigo_postal": "25053",
             "latitud": 4.232786985,
             "longitud": -74.395762911,
@@ -5096,7 +5096,7 @@
         "model": "general.ciudad",
         "pk": 464,
         "fields": {
-            "nombre": "BELTRAN",
+            "nombre": "BELTRÁN",
             "codigo_postal": "25086",
             "latitud": 4.791721105,
             "longitud": -74.714913986,
@@ -5118,7 +5118,7 @@
         "model": "general.ciudad",
         "pk": 466,
         "fields": {
-            "nombre": "BOJACA",
+            "nombre": "BOJACÁ",
             "codigo_postal": "25099",
             "latitud": 4.705576252,
             "longitud": -74.335407699,
@@ -5151,7 +5151,7 @@
         "model": "general.ciudad",
         "pk": 469,
         "fields": {
-            "nombre": "CAJICA",
+            "nombre": "CAJICÁ",
             "codigo_postal": "25126",
             "latitud": 4.930402779,
             "longitud": -74.029851152,
@@ -5162,7 +5162,7 @@
         "model": "general.ciudad",
         "pk": 470,
         "fields": {
-            "nombre": "CAPARRAPI",
+            "nombre": "CAPARRAPÍ",
             "codigo_postal": "25148",
             "latitud": 5.381501399,
             "longitud": -74.521235947,
@@ -5173,7 +5173,7 @@
         "model": "general.ciudad",
         "pk": 471,
         "fields": {
-            "nombre": "CAQUEZA",
+            "nombre": "CÁQUEZA",
             "codigo_postal": "25151",
             "latitud": 4.402259457,
             "longitud": -73.94482435,
@@ -5195,7 +5195,7 @@
         "model": "general.ciudad",
         "pk": 473,
         "fields": {
-            "nombre": "CHAGUANI",
+            "nombre": "CHAGUANÍ",
             "codigo_postal": "25168",
             "latitud": 4.95425175,
             "longitud": -74.630901385,
@@ -5206,7 +5206,7 @@
         "model": "general.ciudad",
         "pk": 474,
         "fields": {
-            "nombre": "CHIA",
+            "nombre": "CHÍA",
             "codigo_postal": "25175",
             "latitud": 4.857823671,
             "longitud": -74.038095385,
@@ -5228,7 +5228,7 @@
         "model": "general.ciudad",
         "pk": 476,
         "fields": {
-            "nombre": "CHOACHI",
+            "nombre": "CHOACHÍ",
             "codigo_postal": "25181",
             "latitud": 4.578183896,
             "longitud": -73.952900544,
@@ -5239,7 +5239,7 @@
         "model": "general.ciudad",
         "pk": 477,
         "fields": {
-            "nombre": "CHOCONTA",
+            "nombre": "CHOCONTÁ",
             "codigo_postal": "25183",
             "latitud": 5.118419271,
             "longitud": -73.680685831,
@@ -5272,7 +5272,7 @@
         "model": "general.ciudad",
         "pk": 480,
         "fields": {
-            "nombre": "CUCUNUBA",
+            "nombre": "CUCUNUBÁ",
             "codigo_postal": "25224",
             "latitud": 5.230308105,
             "longitud": -73.780018849,
@@ -5294,7 +5294,7 @@
         "model": "general.ciudad",
         "pk": 482,
         "fields": {
-            "nombre": "EL PENON",
+            "nombre": "EL PEÑÓN",
             "codigo_postal": "25258",
             "latitud": 5.261728244,
             "longitud": -74.308305639,
@@ -5316,7 +5316,7 @@
         "model": "general.ciudad",
         "pk": 484,
         "fields": {
-            "nombre": "FACATATIVA",
+            "nombre": "FACATATIVÁ",
             "codigo_postal": "25269",
             "latitud": 4.834052334,
             "longitud": -74.338022898,
@@ -5327,7 +5327,7 @@
         "model": "general.ciudad",
         "pk": 485,
         "fields": {
-            "nombre": "FOMEQUE",
+            "nombre": "FÓMEQUE",
             "codigo_postal": "25279",
             "latitud": 4.528568462,
             "longitud": -73.797052666,
@@ -5360,7 +5360,7 @@
         "model": "general.ciudad",
         "pk": 488,
         "fields": {
-            "nombre": "FUQUENE",
+            "nombre": "FÚQUENE",
             "codigo_postal": "25288",
             "latitud": 5.416288902,
             "longitud": -73.770598289,
@@ -5371,7 +5371,7 @@
         "model": "general.ciudad",
         "pk": 489,
         "fields": {
-            "nombre": "FUSAGASUGA",
+            "nombre": "FUSAGASUGÁ",
             "codigo_postal": "25290",
             "latitud": 4.323534028,
             "longitud": -74.388591139,
@@ -5382,7 +5382,7 @@
         "model": "general.ciudad",
         "pk": 490,
         "fields": {
-            "nombre": "GACHALA",
+            "nombre": "GACHALÁ",
             "codigo_postal": "25293",
             "latitud": 4.65495513,
             "longitud": -73.510553814,
@@ -5393,7 +5393,7 @@
         "model": "general.ciudad",
         "pk": 491,
         "fields": {
-            "nombre": "GACHANCIPA",
+            "nombre": "GACHANCIPÁ",
             "codigo_postal": "25295",
             "latitud": 5.01001953,
             "longitud": -73.87671759,
@@ -5404,7 +5404,7 @@
         "model": "general.ciudad",
         "pk": 492,
         "fields": {
-            "nombre": "GACHETA",
+            "nombre": "GACHETÁ",
             "codigo_postal": "25297",
             "latitud": 4.867551134,
             "longitud": -73.617732872,
@@ -5448,7 +5448,7 @@
         "model": "general.ciudad",
         "pk": 496,
         "fields": {
-            "nombre": "GUACHETA",
+            "nombre": "GUACHETÁ",
             "codigo_postal": "25317",
             "latitud": 5.387291542,
             "longitud": -73.693282341,
@@ -5481,7 +5481,7 @@
         "model": "general.ciudad",
         "pk": 499,
         "fields": {
-            "nombre": "GUATAQUI",
+            "nombre": "GUATAQUÍ",
             "codigo_postal": "25324",
             "latitud": 4.516381655,
             "longitud": -74.782577881,
@@ -5503,7 +5503,7 @@
         "model": "general.ciudad",
         "pk": 501,
         "fields": {
-            "nombre": "GUAYABAL DE SIQUIMA",
+            "nombre": "GUAYABAL DE SÍQUIMA",
             "codigo_postal": "25328",
             "latitud": 4.866310254,
             "longitud": -74.476770895,
@@ -5525,7 +5525,7 @@
         "model": "general.ciudad",
         "pk": 503,
         "fields": {
-            "nombre": "GUTIERREZ",
+            "nombre": "GUTIÉRREZ",
             "codigo_postal": "25339",
             "latitud": 4.166089563,
             "longitud": -74.024652702,
@@ -5536,7 +5536,7 @@
         "model": "general.ciudad",
         "pk": 504,
         "fields": {
-            "nombre": "JERUSALEN",
+            "nombre": "JERUSALÉN",
             "codigo_postal": "25368",
             "latitud": 4.571350254,
             "longitud": -74.689158536,
@@ -5547,7 +5547,7 @@
         "model": "general.ciudad",
         "pk": 505,
         "fields": {
-            "nombre": "JUNIN",
+            "nombre": "JUNÍN",
             "codigo_postal": "25372",
             "latitud": 4.705170789,
             "longitud": -73.692478732,
@@ -5591,7 +5591,7 @@
         "model": "general.ciudad",
         "pk": 509,
         "fields": {
-            "nombre": "LA PENA",
+            "nombre": "LA PEÑA",
             "codigo_postal": "25398",
             "latitud": 5.20459882,
             "longitud": -74.407866109,
@@ -5624,7 +5624,7 @@
         "model": "general.ciudad",
         "pk": 512,
         "fields": {
-            "nombre": "MACHETA",
+            "nombre": "MACHETÁ",
             "codigo_postal": "25426",
             "latitud": 5.040349198,
             "longitud": -73.617382409,
@@ -5679,7 +5679,7 @@
         "model": "general.ciudad",
         "pk": 517,
         "fields": {
-            "nombre": "NARINO",
+            "nombre": "NARIÑO",
             "codigo_postal": "25483",
             "latitud": 4.407952015,
             "longitud": -74.80565317,
@@ -5690,7 +5690,7 @@
         "model": "general.ciudad",
         "pk": 518,
         "fields": {
-            "nombre": "NEMOCON",
+            "nombre": "NEMOCÓN",
             "codigo_postal": "25486",
             "latitud": 5.093705358,
             "longitud": -73.883802375,
@@ -5811,7 +5811,7 @@
         "model": "general.ciudad",
         "pk": 529,
         "fields": {
-            "nombre": "PULI",
+            "nombre": "PULÍ",
             "codigo_postal": "25580",
             "latitud": 4.691336253,
             "longitud": -74.680744036,
@@ -5943,7 +5943,7 @@
         "model": "general.ciudad",
         "pk": 541,
         "fields": {
-            "nombre": "SESQUILE",
+            "nombre": "SESQUILÉ",
             "codigo_postal": "25736",
             "latitud": 5.000633875,
             "longitud": -73.772065443,
@@ -5954,7 +5954,7 @@
         "model": "general.ciudad",
         "pk": 542,
         "fields": {
-            "nombre": "SIBATE",
+            "nombre": "SIBATÉ",
             "codigo_postal": "25740",
             "latitud": 4.465970004,
             "longitud": -74.263289627,
@@ -5998,7 +5998,7 @@
         "model": "general.ciudad",
         "pk": 546,
         "fields": {
-            "nombre": "SOPO",
+            "nombre": "SOPÓ",
             "codigo_postal": "25758",
             "latitud": 4.888060112,
             "longitud": -73.965875277,
@@ -6031,7 +6031,7 @@
         "model": "general.ciudad",
         "pk": 549,
         "fields": {
-            "nombre": "SUPATA",
+            "nombre": "SUPATÁ",
             "codigo_postal": "25777",
             "latitud": 5.061692703,
             "longitud": -74.231383276,
@@ -6141,7 +6141,7 @@
         "model": "general.ciudad",
         "pk": 559,
         "fields": {
-            "nombre": "TOCANCIPA",
+            "nombre": "TOCANCIPÁ",
             "codigo_postal": "25817",
             "latitud": 4.968852913,
             "longitud": -73.928870205,
@@ -6152,7 +6152,7 @@
         "model": "general.ciudad",
         "pk": 560,
         "fields": {
-            "nombre": "TOPAIPI",
+            "nombre": "TOPAIPÍ",
             "codigo_postal": "25823",
             "latitud": 5.355688386,
             "longitud": -74.289639943,
@@ -6163,7 +6163,7 @@
         "model": "general.ciudad",
         "pk": 561,
         "fields": {
-            "nombre": "UBALA",
+            "nombre": "UBALÁ",
             "codigo_postal": "25839",
             "latitud": 4.803805182,
             "longitud": -73.47654604,
@@ -6185,7 +6185,7 @@
         "model": "general.ciudad",
         "pk": 563,
         "fields": {
-            "nombre": "VILLA DE SAN DIEGO DE UBATE",
+            "nombre": "VILLA DE SAN DIEGO DE UBATÉ",
             "codigo_postal": "25843",
             "latitud": 5.316080652,
             "longitud": -73.820105663,
@@ -6207,7 +6207,7 @@
         "model": "general.ciudad",
         "pk": 565,
         "fields": {
-            "nombre": "UTICA",
+            "nombre": "ÚTICA",
             "codigo_postal": "25851",
             "latitud": 5.192795708,
             "longitud": -74.477800029,
@@ -6229,7 +6229,7 @@
         "model": "general.ciudad",
         "pk": 567,
         "fields": {
-            "nombre": "VIANI",
+            "nombre": "VIANÍ",
             "codigo_postal": "25867",
             "latitud": 4.914040619,
             "longitud": -74.549366548,
@@ -6240,7 +6240,7 @@
         "model": "general.ciudad",
         "pk": 568,
         "fields": {
-            "nombre": "VILLAGOMEZ",
+            "nombre": "VILLAGÓMEZ",
             "codigo_postal": "25871",
             "latitud": 5.270694636,
             "longitud": -74.190743751,
@@ -6251,7 +6251,7 @@
         "model": "general.ciudad",
         "pk": 569,
         "fields": {
-            "nombre": "VILLAPINZON",
+            "nombre": "VILLAPINZÓN",
             "codigo_postal": "25873",
             "latitud": 5.227298709,
             "longitud": -73.577259209,
@@ -6273,7 +6273,7 @@
         "model": "general.ciudad",
         "pk": 571,
         "fields": {
-            "nombre": "VIOTA",
+            "nombre": "VIOTÁ",
             "codigo_postal": "25878",
             "latitud": 4.436054105,
             "longitud": -74.485433391,
@@ -6284,7 +6284,7 @@
         "model": "general.ciudad",
         "pk": 572,
         "fields": {
-            "nombre": "YACOPI",
+            "nombre": "YACOPÍ",
             "codigo_postal": "25885",
             "latitud": 5.591910157,
             "longitud": -74.364808653,
@@ -6295,7 +6295,7 @@
         "model": "general.ciudad",
         "pk": 573,
         "fields": {
-            "nombre": "ZIPACON",
+            "nombre": "ZIPACÓN",
             "codigo_postal": "25898",
             "latitud": 4.75432173,
             "longitud": -74.386734443,
@@ -6306,7 +6306,7 @@
         "model": "general.ciudad",
         "pk": 574,
         "fields": {
-            "nombre": "ZIPAQUIRA",
+            "nombre": "ZIPAQUIRÁ",
             "codigo_postal": "25899",
             "latitud": 5.06631685,
             "longitud": -74.049603234,
@@ -6317,7 +6317,7 @@
         "model": "general.ciudad",
         "pk": 575,
         "fields": {
-            "nombre": "QUIBDO",
+            "nombre": "QUIBDÓ",
             "codigo_postal": "27001",
             "latitud": 5.7543229,
             "longitud": -76.65015147,
@@ -6328,7 +6328,7 @@
         "model": "general.ciudad",
         "pk": 576,
         "fields": {
-            "nombre": "ACANDI",
+            "nombre": "ACANDÍ",
             "codigo_postal": "27006",
             "latitud": 8.383938499,
             "longitud": -77.265602561,
@@ -6339,7 +6339,7 @@
         "model": "general.ciudad",
         "pk": 577,
         "fields": {
-            "nombre": "ALTO BAUDO",
+            "nombre": "ALTO BAUDÓ",
             "codigo_postal": "27025",
             "latitud": 5.636740989,
             "longitud": -77.084215399,
@@ -6361,7 +6361,7 @@
         "model": "general.ciudad",
         "pk": 579,
         "fields": {
-            "nombre": "BAGADO",
+            "nombre": "BAGADÓ",
             "codigo_postal": "27073",
             "latitud": 5.503119772,
             "longitud": -76.197969065,
@@ -6372,7 +6372,7 @@
         "model": "general.ciudad",
         "pk": 580,
         "fields": {
-            "nombre": "BAHIA SOLANO",
+            "nombre": "BAHÍA SOLANO",
             "codigo_postal": "27075",
             "latitud": 6.162762775,
             "longitud": -77.416535344,
@@ -6383,7 +6383,7 @@
         "model": "general.ciudad",
         "pk": 581,
         "fields": {
-            "nombre": "BAJO BAUDO",
+            "nombre": "BAJO BAUDÓ",
             "codigo_postal": "27077",
             "latitud": 4.492865435,
             "longitud": -77.082713524,
@@ -6394,7 +6394,7 @@
         "model": "general.ciudad",
         "pk": 582,
         "fields": {
-            "nombre": "BOJAYA",
+            "nombre": "BOJAYÁ",
             "codigo_postal": "27099",
             "latitud": 6.474666885,
             "longitud": -77.09933025,
@@ -6405,7 +6405,7 @@
         "model": "general.ciudad",
         "pk": 583,
         "fields": {
-            "nombre": "EL CANTON DEL SAN PABLO",
+            "nombre": "EL CANTÓN DEL SAN PABLO",
             "codigo_postal": "27135",
             "latitud": 5.359661967,
             "longitud": -76.772556244,
@@ -6416,7 +6416,7 @@
         "model": "general.ciudad",
         "pk": 584,
         "fields": {
-            "nombre": "CARMEN DEL DARIEN",
+            "nombre": "CARMEN DEL DARIÉN",
             "codigo_postal": "27150",
             "latitud": 7.033646541,
             "longitud": -76.974230164,
@@ -6427,7 +6427,7 @@
         "model": "general.ciudad",
         "pk": 585,
         "fields": {
-            "nombre": "CERTEGUI",
+            "nombre": "CÉRTEGUI",
             "codigo_postal": "27160",
             "latitud": 5.389828229,
             "longitud": -76.522642368,
@@ -6482,7 +6482,7 @@
         "model": "general.ciudad",
         "pk": 590,
         "fields": {
-            "nombre": "JURADO",
+            "nombre": "JURADÓ",
             "codigo_postal": "27372",
             "latitud": 7.103338868,
             "longitud": -77.679736621,
@@ -6493,7 +6493,7 @@
         "model": "general.ciudad",
         "pk": 591,
         "fields": {
-            "nombre": "LLORO",
+            "nombre": "LLORÓ",
             "codigo_postal": "27413",
             "latitud": 5.585101179,
             "longitud": -76.385444488,
@@ -6515,7 +6515,7 @@
         "model": "general.ciudad",
         "pk": 593,
         "fields": {
-            "nombre": "MEDIO BAUDO",
+            "nombre": "MEDIO BAUDÓ",
             "codigo_postal": "27430",
             "latitud": 5.110392243,
             "longitud": -76.995930752,
@@ -6537,7 +6537,7 @@
         "model": "general.ciudad",
         "pk": 595,
         "fields": {
-            "nombre": "NOVITA",
+            "nombre": "NÓVITA",
             "codigo_postal": "27491",
             "latitud": 4.853386627,
             "longitud": -76.618236685,
@@ -6548,7 +6548,7 @@
         "model": "general.ciudad",
         "pk": 596,
         "fields": {
-            "nombre": "NUQUI",
+            "nombre": "NUQUÍ",
             "codigo_postal": "27495",
             "latitud": 5.591359844,
             "longitud": -77.330574386,
@@ -6559,7 +6559,7 @@
         "model": "general.ciudad",
         "pk": 597,
         "fields": {
-            "nombre": "RIO IRO",
+            "nombre": "RÍO IRÓ",
             "codigo_postal": "27580",
             "latitud": 5.190995015,
             "longitud": -76.41996151,
@@ -6570,7 +6570,7 @@
         "model": "general.ciudad",
         "pk": 598,
         "fields": {
-            "nombre": "RIO QUITO",
+            "nombre": "RÍO QUITO",
             "codigo_postal": "27600",
             "latitud": 5.567533337,
             "longitud": -76.811570844,
@@ -6592,7 +6592,7 @@
         "model": "general.ciudad",
         "pk": 600,
         "fields": {
-            "nombre": "SAN JOSE DEL PALMAR",
+            "nombre": "SAN JOSÉ DEL PALMAR",
             "codigo_postal": "27660",
             "latitud": 4.958741345,
             "longitud": -76.280023606,
@@ -6603,7 +6603,7 @@
         "model": "general.ciudad",
         "pk": 601,
         "fields": {
-            "nombre": "SIPI",
+            "nombre": "SIPÍ",
             "codigo_postal": "27745",
             "latitud": 4.594415157,
             "longitud": -76.541944593,
@@ -6614,7 +6614,7 @@
         "model": "general.ciudad",
         "pk": 602,
         "fields": {
-            "nombre": "TADO",
+            "nombre": "TADÓ",
             "codigo_postal": "27787",
             "latitud": 5.26610158,
             "longitud": -76.331095472,
@@ -6625,7 +6625,7 @@
         "model": "general.ciudad",
         "pk": 603,
         "fields": {
-            "nombre": "UNGUIA",
+            "nombre": "UNGUÍA",
             "codigo_postal": "27800",
             "latitud": 8.117281079,
             "longitud": -77.10372723,
@@ -6636,7 +6636,7 @@
         "model": "general.ciudad",
         "pk": 604,
         "fields": {
-            "nombre": "UNION PANAMERICANA",
+            "nombre": "UNIÓN PANAMERICANA",
             "codigo_postal": "27810",
             "latitud": 5.281599258,
             "longitud": -76.619627455,
@@ -6746,7 +6746,7 @@
         "model": "general.ciudad",
         "pk": 614,
         "fields": {
-            "nombre": "ELIAS",
+            "nombre": "ELÍAS",
             "codigo_postal": "41244",
             "latitud": 2.022053305,
             "longitud": -75.944305207,
@@ -6757,7 +6757,7 @@
         "model": "general.ciudad",
         "pk": 615,
         "fields": {
-            "nombre": "GARZON",
+            "nombre": "GARZÓN",
             "codigo_postal": "41298",
             "latitud": 2.172441496,
             "longitud": -75.571312425,
@@ -6801,7 +6801,7 @@
         "model": "general.ciudad",
         "pk": 619,
         "fields": {
-            "nombre": "IQUIRA",
+            "nombre": "ÍQUIRA",
             "codigo_postal": "41357",
             "latitud": 2.691517773,
             "longitud": -75.673831406,
@@ -6845,7 +6845,7 @@
         "model": "general.ciudad",
         "pk": 623,
         "fields": {
-            "nombre": "NATAGA",
+            "nombre": "NÁTAGA",
             "codigo_postal": "41483",
             "latitud": 2.576066285,
             "longitud": -75.786937574,
@@ -6944,7 +6944,7 @@
         "model": "general.ciudad",
         "pk": 632,
         "fields": {
-            "nombre": "SAN AGUSTIN",
+            "nombre": "SAN AGUSTÍN",
             "codigo_postal": "41668",
             "latitud": 1.924165493,
             "longitud": -76.416565503,
@@ -6955,7 +6955,7 @@
         "model": "general.ciudad",
         "pk": 633,
         "fields": {
-            "nombre": "SANTA MARIA",
+            "nombre": "SANTA MARÍA",
             "codigo_postal": "41676",
             "latitud": 2.926265937,
             "longitud": -75.633597855,
@@ -7021,7 +7021,7 @@
         "model": "general.ciudad",
         "pk": 639,
         "fields": {
-            "nombre": "TIMANA",
+            "nombre": "TIMANÁ",
             "codigo_postal": "41807",
             "latitud": 1.950715226,
             "longitud": -75.917576487,
@@ -7043,7 +7043,7 @@
         "model": "general.ciudad",
         "pk": 641,
         "fields": {
-            "nombre": "YAGUARA",
+            "nombre": "YAGUARÁ",
             "codigo_postal": "41885",
             "latitud": 2.646563339,
             "longitud": -75.515926448,
@@ -7098,7 +7098,7 @@
         "model": "general.ciudad",
         "pk": 646,
         "fields": {
-            "nombre": "DISTRACCION",
+            "nombre": "DISTRACCIÓN",
             "codigo_postal": "44098",
             "latitud": 10.925051067,
             "longitud": -72.944440273,
@@ -7252,7 +7252,7 @@
         "model": "general.ciudad",
         "pk": 660,
         "fields": {
-            "nombre": "ARIGUANI",
+            "nombre": "ARIGUANÍ",
             "codigo_postal": "47058",
             "latitud": 9.834264955,
             "longitud": -74.084600846,
@@ -7285,7 +7285,7 @@
         "model": "general.ciudad",
         "pk": 663,
         "fields": {
-            "nombre": "CIENAGA",
+            "nombre": "CIÉNAGA",
             "codigo_postal": "47189",
             "latitud": 10.857545516,
             "longitud": -74.025004934,
@@ -7318,7 +7318,7 @@
         "model": "general.ciudad",
         "pk": 666,
         "fields": {
-            "nombre": "EL PINON",
+            "nombre": "EL PIÑÓN",
             "codigo_postal": "47258",
             "latitud": 10.343109882,
             "longitud": -74.678177555,
@@ -7329,7 +7329,7 @@
         "model": "general.ciudad",
         "pk": 667,
         "fields": {
-            "nombre": "EL RETEN",
+            "nombre": "EL RETÉN",
             "codigo_postal": "47268",
             "latitud": 10.659616964,
             "longitud": -74.325159702,
@@ -7340,7 +7340,7 @@
         "model": "general.ciudad",
         "pk": 668,
         "fields": {
-            "nombre": "FUNDACION",
+            "nombre": "FUNDACIÓN",
             "codigo_postal": "47288",
             "latitud": 10.459378178,
             "longitud": -73.884065179,
@@ -7384,7 +7384,7 @@
         "model": "general.ciudad",
         "pk": 672,
         "fields": {
-            "nombre": "PIJINO DEL CARMEN",
+            "nombre": "PIJIÑO DEL CARMEN",
             "codigo_postal": "47545",
             "latitud": 9.530748654,
             "longitud": -74.144765702,
@@ -7439,7 +7439,7 @@
         "model": "general.ciudad",
         "pk": 677,
         "fields": {
-            "nombre": "SABANAS DE SAN ANGEL",
+            "nombre": "SABANAS DE SAN ÁNGEL",
             "codigo_postal": "47660",
             "latitud": 10.105330275,
             "longitud": -74.264439202,
@@ -7461,7 +7461,7 @@
         "model": "general.ciudad",
         "pk": 679,
         "fields": {
-            "nombre": "SAN SEBASTIAN DE BUENAVISTA",
+            "nombre": "SAN SEBASTIÁN DE BUENAVISTA",
             "codigo_postal": "47692",
             "latitud": 9.380680272,
             "longitud": -74.197979884,
@@ -7472,7 +7472,7 @@
         "model": "general.ciudad",
         "pk": 680,
         "fields": {
-            "nombre": "SAN ZENON",
+            "nombre": "SAN ZENÓN",
             "codigo_postal": "47703",
             "latitud": 9.306869548,
             "longitud": -74.358516443,
@@ -7494,7 +7494,7 @@
         "model": "general.ciudad",
         "pk": 682,
         "fields": {
-            "nombre": "SANTA BARBARA DE PINTO",
+            "nombre": "SANTA BÁRBARA DE PINTO",
             "codigo_postal": "47720",
             "latitud": 9.484388135,
             "longitud": -74.665211779,
@@ -7527,7 +7527,7 @@
         "model": "general.ciudad",
         "pk": 685,
         "fields": {
-            "nombre": "ZAPAYAN",
+            "nombre": "ZAPAYÁN",
             "codigo_postal": "47960",
             "latitud": 10.117798928,
             "longitud": -74.691154562,
@@ -7560,7 +7560,7 @@
         "model": "general.ciudad",
         "pk": 688,
         "fields": {
-            "nombre": "ACACIAS",
+            "nombre": "ACACÍAS",
             "codigo_postal": "50006",
             "latitud": 3.943383008,
             "longitud": -73.571351617,
@@ -7571,7 +7571,7 @@
         "model": "general.ciudad",
         "pk": 689,
         "fields": {
-            "nombre": "BARRANCA DE UPIA",
+            "nombre": "BARRANCA DE UPÍA",
             "codigo_postal": "50110",
             "latitud": 4.519076127,
             "longitud": -72.995489813,
@@ -7692,7 +7692,7 @@
         "model": "general.ciudad",
         "pk": 700,
         "fields": {
-            "nombre": "MAPIRIPAN",
+            "nombre": "MAPIRIPÁN",
             "codigo_postal": "50325",
             "latitud": 3.117523361,
             "longitud": -71.938056916,
@@ -7736,7 +7736,7 @@
         "model": "general.ciudad",
         "pk": 704,
         "fields": {
-            "nombre": "LEJANIAS",
+            "nombre": "LEJANÍAS",
             "codigo_postal": "50400",
             "latitud": 3.614714873,
             "longitud": -74.096284667,
@@ -7758,7 +7758,7 @@
         "model": "general.ciudad",
         "pk": 706,
         "fields": {
-            "nombre": "PUERTO GAITAN",
+            "nombre": "PUERTO GAITÁN",
             "codigo_postal": "50568",
             "latitud": 4.005034467,
             "longitud": -71.631574285,
@@ -7769,7 +7769,7 @@
         "model": "general.ciudad",
         "pk": 707,
         "fields": {
-            "nombre": "PUERTO LOPEZ",
+            "nombre": "PUERTO LÓPEZ",
             "codigo_postal": "50573",
             "latitud": 4.014298921,
             "longitud": -72.645704992,
@@ -7846,7 +7846,7 @@
         "model": "general.ciudad",
         "pk": 714,
         "fields": {
-            "nombre": "SAN MARTIN",
+            "nombre": "SAN MARTÍN",
             "codigo_postal": "50689",
             "latitud": 3.515860962,
             "longitud": -72.656727424,
@@ -7879,7 +7879,7 @@
         "model": "general.ciudad",
         "pk": 717,
         "fields": {
-            "nombre": "ALBAN",
+            "nombre": "ALBÁN",
             "codigo_postal": "52019",
             "latitud": 1.469854084,
             "longitud": -77.068809472,
@@ -7934,7 +7934,7 @@
         "model": "general.ciudad",
         "pk": 722,
         "fields": {
-            "nombre": "BELEN",
+            "nombre": "BELÉN",
             "codigo_postal": "52083",
             "latitud": 1.593645287,
             "longitud": -77.019993659,
@@ -7956,7 +7956,7 @@
         "model": "general.ciudad",
         "pk": 724,
         "fields": {
-            "nombre": "COLON",
+            "nombre": "COLÓN",
             "codigo_postal": "52203",
             "latitud": 1.636334379,
             "longitud": -77.0473156,
@@ -7967,7 +7967,7 @@
         "model": "general.ciudad",
         "pk": 725,
         "fields": {
-            "nombre": "CONSACA",
+            "nombre": "CONSACÁ",
             "codigo_postal": "52207",
             "latitud": 1.209066732,
             "longitud": -77.440639207,
@@ -7989,7 +7989,7 @@
         "model": "general.ciudad",
         "pk": 727,
         "fields": {
-            "nombre": "CORDOBA",
+            "nombre": "CÓRDOBA",
             "codigo_postal": "52215",
             "latitud": 0.78274688,
             "longitud": -77.368059034,
@@ -8033,7 +8033,7 @@
         "model": "general.ciudad",
         "pk": 731,
         "fields": {
-            "nombre": "CHACHAGUI",
+            "nombre": "CHACHAGÜÍ",
             "codigo_postal": "52240",
             "latitud": 1.386497844,
             "longitud": -77.26969022,
@@ -8055,7 +8055,7 @@
         "model": "general.ciudad",
         "pk": 733,
         "fields": {
-            "nombre": "EL PENOL",
+            "nombre": "EL PEÑOL",
             "codigo_postal": "52254",
             "latitud": 1.512283967,
             "longitud": -77.430509342,
@@ -8077,7 +8077,7 @@
         "model": "general.ciudad",
         "pk": 735,
         "fields": {
-            "nombre": "EL TABLON DE GOMEZ",
+            "nombre": "EL TABLÓN DE GÓMEZ",
             "codigo_postal": "52258",
             "latitud": 1.409430207,
             "longitud": -76.985269588,
@@ -8132,7 +8132,7 @@
         "model": "general.ciudad",
         "pk": 740,
         "fields": {
-            "nombre": "GUALMATAN",
+            "nombre": "GUALMATÁN",
             "codigo_postal": "52323",
             "latitud": 0.928642623,
             "longitud": -77.582618827,
@@ -8154,7 +8154,7 @@
         "model": "general.ciudad",
         "pk": 742,
         "fields": {
-            "nombre": "IMUES",
+            "nombre": "IMUÉS",
             "codigo_postal": "52354",
             "latitud": 1.07287697,
             "longitud": -77.501508644,
@@ -8220,7 +8220,7 @@
         "model": "general.ciudad",
         "pk": 748,
         "fields": {
-            "nombre": "LA UNION",
+            "nombre": "LA UNIÓN",
             "codigo_postal": "52399",
             "latitud": 1.619697376,
             "longitud": -77.142846218,
@@ -8264,7 +8264,7 @@
         "model": "general.ciudad",
         "pk": 752,
         "fields": {
-            "nombre": "MAGUI",
+            "nombre": "MAGÜÍ",
             "codigo_postal": "52427",
             "latitud": 1.906858429,
             "longitud": -78.044736438,
@@ -8297,7 +8297,7 @@
         "model": "general.ciudad",
         "pk": 755,
         "fields": {
-            "nombre": "NARINO",
+            "nombre": "NARIÑO",
             "codigo_postal": "52480",
             "latitud": 1.286775273,
             "longitud": -77.352203665,
@@ -8352,7 +8352,7 @@
         "model": "general.ciudad",
         "pk": 760,
         "fields": {
-            "nombre": "POTOSI",
+            "nombre": "POTOSÍ",
             "codigo_postal": "52560",
             "latitud": 0.785841088,
             "longitud": -77.528704073,
@@ -8407,7 +8407,7 @@
         "model": "general.ciudad",
         "pk": 765,
         "fields": {
-            "nombre": "ROBERTO PAYAN",
+            "nombre": "ROBERTO PAYÁN",
             "codigo_postal": "52621",
             "latitud": 1.897581156,
             "longitud": -78.3811163,
@@ -8429,7 +8429,7 @@
         "model": "general.ciudad",
         "pk": 767,
         "fields": {
-            "nombre": "SANDONA",
+            "nombre": "SANDONÁ",
             "codigo_postal": "52683",
             "latitud": 1.288105409,
             "longitud": -77.456700683,
@@ -8484,7 +8484,7 @@
         "model": "general.ciudad",
         "pk": 772,
         "fields": {
-            "nombre": "SANTA BARBARA",
+            "nombre": "SANTA BÁRBARA",
             "codigo_postal": "52696",
             "latitud": 2.494420411,
             "longitud": -77.982564611,
@@ -8539,7 +8539,7 @@
         "model": "general.ciudad",
         "pk": 777,
         "fields": {
-            "nombre": "SAN ANDRES DE TUMACO",
+            "nombre": "SAN ANDRÉS DE TUMACO",
             "codigo_postal": "52835",
             "latitud": 1.574550638,
             "longitud": -78.615409629,
@@ -8550,7 +8550,7 @@
         "model": "general.ciudad",
         "pk": 778,
         "fields": {
-            "nombre": "TUQUERRES",
+            "nombre": "TÚQUERRES",
             "codigo_postal": "52838",
             "latitud": 1.134440523,
             "longitud": -77.63073238,
@@ -8572,7 +8572,7 @@
         "model": "general.ciudad",
         "pk": 780,
         "fields": {
-            "nombre": "SAN JOSE DE CUCUTA",
+            "nombre": "SAN JOSÉ DE CÚCUTA",
             "codigo_postal": "54001",
             "latitud": 8.112041811,
             "longitud": -72.488626408,
@@ -8583,7 +8583,7 @@
         "model": "general.ciudad",
         "pk": 781,
         "fields": {
-            "nombre": "ABREGO",
+            "nombre": "ÁBREGO",
             "codigo_postal": "54003",
             "latitud": 8.019834481,
             "longitud": -73.158504846,
@@ -8627,7 +8627,7 @@
         "model": "general.ciudad",
         "pk": 785,
         "fields": {
-            "nombre": "CACOTA",
+            "nombre": "CÁCOTA",
             "codigo_postal": "54125",
             "latitud": 7.270560088,
             "longitud": -72.652121526,
@@ -8638,7 +8638,7 @@
         "model": "general.ciudad",
         "pk": 786,
         "fields": {
-            "nombre": "CACHIRA",
+            "nombre": "CÁCHIRA",
             "codigo_postal": "54128",
             "latitud": 7.684188896,
             "longitud": -73.129394812,
@@ -8649,7 +8649,7 @@
         "model": "general.ciudad",
         "pk": 787,
         "fields": {
-            "nombre": "CHINACOTA",
+            "nombre": "CHINÁCOTA",
             "codigo_postal": "54172",
             "latitud": 7.583353136,
             "longitud": -72.583909779,
@@ -8660,7 +8660,7 @@
         "model": "general.ciudad",
         "pk": 788,
         "fields": {
-            "nombre": "CHITAGA",
+            "nombre": "CHITAGÁ",
             "codigo_postal": "54174",
             "latitud": 7.05161677,
             "longitud": -72.525447458,
@@ -8671,7 +8671,7 @@
         "model": "general.ciudad",
         "pk": 789,
         "fields": {
-            "nombre": "CONVENCION",
+            "nombre": "CONVENCIÓN",
             "codigo_postal": "54206",
             "latitud": 8.873159895,
             "longitud": -73.200077686,
@@ -8748,7 +8748,7 @@
         "model": "general.ciudad",
         "pk": 796,
         "fields": {
-            "nombre": "HACARI",
+            "nombre": "HACARÍ",
             "codigo_postal": "54344",
             "latitud": 8.361831987,
             "longitud": -73.078263298,
@@ -8759,7 +8759,7 @@
         "model": "general.ciudad",
         "pk": 797,
         "fields": {
-            "nombre": "HERRAN",
+            "nombre": "HERRÁN",
             "codigo_postal": "54347",
             "latitud": 7.493955781,
             "longitud": -72.492699981,
@@ -8836,7 +8836,7 @@
         "model": "general.ciudad",
         "pk": 804,
         "fields": {
-            "nombre": "OCANA",
+            "nombre": "OCAÑA",
             "codigo_postal": "54498",
             "latitud": 8.206637527,
             "longitud": -73.337650332,
@@ -8968,7 +8968,7 @@
         "model": "general.ciudad",
         "pk": 816,
         "fields": {
-            "nombre": "TIBU",
+            "nombre": "TIBÚ",
             "codigo_postal": "54810",
             "latitud": 8.713507237,
             "longitud": -72.79925855,
@@ -9034,7 +9034,7 @@
         "model": "general.ciudad",
         "pk": 822,
         "fields": {
-            "nombre": "CALARCA",
+            "nombre": "CALARCÁ",
             "codigo_postal": "63130",
             "latitud": 4.467879428,
             "longitud": -75.65674719,
@@ -9056,7 +9056,7 @@
         "model": "general.ciudad",
         "pk": 824,
         "fields": {
-            "nombre": "CORDOBA",
+            "nombre": "CÓRDOBA",
             "codigo_postal": "63212",
             "latitud": 4.395975176,
             "longitud": -75.651323077,
@@ -9078,7 +9078,7 @@
         "model": "general.ciudad",
         "pk": 826,
         "fields": {
-            "nombre": "GENOVA",
+            "nombre": "GÉNOVA",
             "codigo_postal": "63302",
             "latitud": 4.180107773,
             "longitud": -75.760566947,
@@ -9155,7 +9155,7 @@
         "model": "general.ciudad",
         "pk": 833,
         "fields": {
-            "nombre": "APIA",
+            "nombre": "APÍA",
             "codigo_postal": "66045",
             "latitud": 5.139635357,
             "longitud": -75.953538705,
@@ -9177,7 +9177,7 @@
         "model": "general.ciudad",
         "pk": 835,
         "fields": {
-            "nombre": "BELEN DE UMBRIA",
+            "nombre": "BELÉN DE UMBRÍA",
             "codigo_postal": "66088",
             "latitud": 5.200398696,
             "longitud": -75.867938933,
@@ -9199,7 +9199,7 @@
         "model": "general.ciudad",
         "pk": 837,
         "fields": {
-            "nombre": "GUATICA",
+            "nombre": "GUÁTICA",
             "codigo_postal": "66318",
             "latitud": 5.320295966,
             "longitud": -75.804366589,
@@ -9243,7 +9243,7 @@
         "model": "general.ciudad",
         "pk": 841,
         "fields": {
-            "nombre": "MISTRATO",
+            "nombre": "MISTRATÓ",
             "codigo_postal": "66456",
             "latitud": 5.414078141,
             "longitud": -75.961353866,
@@ -9265,7 +9265,7 @@
         "model": "general.ciudad",
         "pk": 843,
         "fields": {
-            "nombre": "QUINCHIA",
+            "nombre": "QUINCHÍA",
             "codigo_postal": "66594",
             "latitud": 5.323906864,
             "longitud": -75.713396832,
@@ -9386,7 +9386,7 @@
         "model": "general.ciudad",
         "pk": 854,
         "fields": {
-            "nombre": "BOLIVAR",
+            "nombre": "BOLÍVAR",
             "codigo_postal": "68101",
             "latitud": 6.181715586,
             "longitud": -73.920657034,
@@ -9430,7 +9430,7 @@
         "model": "general.ciudad",
         "pk": 858,
         "fields": {
-            "nombre": "CARCASI",
+            "nombre": "CARCASÍ",
             "codigo_postal": "68152",
             "latitud": 6.659675274,
             "longitud": -72.569684339,
@@ -9441,7 +9441,7 @@
         "model": "general.ciudad",
         "pk": 859,
         "fields": {
-            "nombre": "CEPITA",
+            "nombre": "CEPITÁ",
             "codigo_postal": "68160",
             "latitud": 6.752465533,
             "longitud": -72.92924629,
@@ -9463,7 +9463,7 @@
         "model": "general.ciudad",
         "pk": 861,
         "fields": {
-            "nombre": "CHARALA",
+            "nombre": "CHARALÁ",
             "codigo_postal": "68167",
             "latitud": 6.35099819,
             "longitud": -73.061013821,
@@ -9496,7 +9496,7 @@
         "model": "general.ciudad",
         "pk": 864,
         "fields": {
-            "nombre": "CHIPATA",
+            "nombre": "CHIPATÁ",
             "codigo_postal": "68179",
             "latitud": 6.067944658,
             "longitud": -73.632391317,
@@ -9518,7 +9518,7 @@
         "model": "general.ciudad",
         "pk": 866,
         "fields": {
-            "nombre": "CONCEPCION",
+            "nombre": "CONCEPCIÓN",
             "codigo_postal": "68207",
             "latitud": 6.76062337,
             "longitud": -72.618157347,
@@ -9540,7 +9540,7 @@
         "model": "general.ciudad",
         "pk": 868,
         "fields": {
-            "nombre": "CONTRATACION",
+            "nombre": "CONTRATACIÓN",
             "codigo_postal": "68211",
             "latitud": 6.303116611,
             "longitud": -73.502115273,
@@ -9562,7 +9562,7 @@
         "model": "general.ciudad",
         "pk": 870,
         "fields": {
-            "nombre": "CURITI",
+            "nombre": "CURITÍ",
             "codigo_postal": "68229",
             "latitud": 6.608966483,
             "longitud": -73.05897888,
@@ -9573,7 +9573,7 @@
         "model": "general.ciudad",
         "pk": 871,
         "fields": {
-            "nombre": "EL CARMEN DE CHUCURI",
+            "nombre": "EL CARMEN DE CHUCURÍ",
             "codigo_postal": "68235",
             "latitud": 6.664260002,
             "longitud": -73.564752876,
@@ -9595,7 +9595,7 @@
         "model": "general.ciudad",
         "pk": 873,
         "fields": {
-            "nombre": "EL PENON",
+            "nombre": "EL PEÑÓN",
             "codigo_postal": "68250",
             "latitud": 6.123389691,
             "longitud": -74.000403973,
@@ -9606,7 +9606,7 @@
         "model": "general.ciudad",
         "pk": 874,
         "fields": {
-            "nombre": "EL PLAYON",
+            "nombre": "EL PLAYÓN",
             "codigo_postal": "68255",
             "latitud": 7.524284721,
             "longitud": -73.181581916,
@@ -9639,7 +9639,7 @@
         "model": "general.ciudad",
         "pk": 877,
         "fields": {
-            "nombre": "FLORIAN",
+            "nombre": "FLORIÁN",
             "codigo_postal": "68271",
             "latitud": 5.801106291,
             "longitud": -73.955249308,
@@ -9661,7 +9661,7 @@
         "model": "general.ciudad",
         "pk": 879,
         "fields": {
-            "nombre": "GALAN",
+            "nombre": "GALÁN",
             "codigo_postal": "68296",
             "latitud": 6.671810994,
             "longitud": -73.324671243,
@@ -9672,7 +9672,7 @@
         "model": "general.ciudad",
         "pk": 880,
         "fields": {
-            "nombre": "GAMBITA",
+            "nombre": "GÁMBITA",
             "codigo_postal": "68298",
             "latitud": 5.924383558,
             "longitud": -73.319399336,
@@ -9683,7 +9683,7 @@
         "model": "general.ciudad",
         "pk": 881,
         "fields": {
-            "nombre": "GIRON",
+            "nombre": "GIRÓN",
             "codigo_postal": "68307",
             "latitud": 6.976734127,
             "longitud": -73.205267004,
@@ -9716,7 +9716,7 @@
         "model": "general.ciudad",
         "pk": 884,
         "fields": {
-            "nombre": "GUAPOTA",
+            "nombre": "GUAPOTÁ",
             "codigo_postal": "68322",
             "latitud": 6.319299865,
             "longitud": -73.331152752,
@@ -9727,7 +9727,7 @@
         "model": "general.ciudad",
         "pk": 885,
         "fields": {
-            "nombre": "GUAVATA",
+            "nombre": "GUAVATÁ",
             "codigo_postal": "68324",
             "latitud": 5.944894844,
             "longitud": -73.721736707,
@@ -9738,7 +9738,7 @@
         "model": "general.ciudad",
         "pk": 886,
         "fields": {
-            "nombre": "GUEPSA",
+            "nombre": "GÜEPSA",
             "codigo_postal": "68327",
             "latitud": 6.04656148,
             "longitud": -73.578478539,
@@ -9760,7 +9760,7 @@
         "model": "general.ciudad",
         "pk": 888,
         "fields": {
-            "nombre": "JESUS MARIA",
+            "nombre": "JESÚS MARÍA",
             "codigo_postal": "68368",
             "latitud": 5.872705896,
             "longitud": -73.789974186,
@@ -9771,7 +9771,7 @@
         "model": "general.ciudad",
         "pk": 889,
         "fields": {
-            "nombre": "JORDAN",
+            "nombre": "JORDÁN",
             "codigo_postal": "68370",
             "latitud": 6.710814846,
             "longitud": -73.121123602,
@@ -9793,7 +9793,7 @@
         "model": "general.ciudad",
         "pk": 891,
         "fields": {
-            "nombre": "LANDAZURI",
+            "nombre": "LANDÁZURI",
             "codigo_postal": "68385",
             "latitud": 6.385234814,
             "longitud": -73.78760899,
@@ -9848,7 +9848,7 @@
         "model": "general.ciudad",
         "pk": 896,
         "fields": {
-            "nombre": "MALAGA",
+            "nombre": "MÁLAGA",
             "codigo_postal": "68432",
             "latitud": 6.720222349,
             "longitud": -72.738410914,
@@ -9947,7 +9947,7 @@
         "model": "general.ciudad",
         "pk": 905,
         "fields": {
-            "nombre": "PARAMO",
+            "nombre": "PÁRAMO",
             "codigo_postal": "68533",
             "latitud": 6.416631131,
             "longitud": -73.171482319,
@@ -10035,7 +10035,7 @@
         "model": "general.ciudad",
         "pk": 913,
         "fields": {
-            "nombre": "SAN ANDRES",
+            "nombre": "SAN ANDRÉS",
             "codigo_postal": "68669",
             "latitud": 6.796483063,
             "longitud": -72.816132023,
@@ -10068,7 +10068,7 @@
         "model": "general.ciudad",
         "pk": 916,
         "fields": {
-            "nombre": "SAN JOAQUIN",
+            "nombre": "SAN JOAQUÍN",
             "codigo_postal": "68682",
             "latitud": 6.459879823,
             "longitud": -72.85471883,
@@ -10079,7 +10079,7 @@
         "model": "general.ciudad",
         "pk": 917,
         "fields": {
-            "nombre": "SAN JOSE DE MIRANDA",
+            "nombre": "SAN JOSÉ DE MIRANDA",
             "codigo_postal": "68684",
             "latitud": 6.629400185,
             "longitud": -72.739764227,
@@ -10101,7 +10101,7 @@
         "model": "general.ciudad",
         "pk": 919,
         "fields": {
-            "nombre": "SAN VICENTE DE CHUCURI",
+            "nombre": "SAN VICENTE DE CHUCURÍ",
             "codigo_postal": "68689",
             "latitud": 6.894292346,
             "longitud": -73.539003336,
@@ -10112,7 +10112,7 @@
         "model": "general.ciudad",
         "pk": 920,
         "fields": {
-            "nombre": "SANTA BARBARA",
+            "nombre": "SANTA BÁRBARA",
             "codigo_postal": "68705",
             "latitud": 6.988084711,
             "longitud": -72.896089334,
@@ -10123,7 +10123,7 @@
         "model": "general.ciudad",
         "pk": 921,
         "fields": {
-            "nombre": "SANTA HELENA DEL OPON",
+            "nombre": "SANTA HELENA DEL OPÓN",
             "codigo_postal": "68720",
             "latitud": 6.40890734,
             "longitud": -73.582066089,
@@ -10178,7 +10178,7 @@
         "model": "general.ciudad",
         "pk": 926,
         "fields": {
-            "nombre": "SURATA",
+            "nombre": "SURATÁ",
             "codigo_postal": "68780",
             "latitud": 7.475402063,
             "longitud": -72.987799659,
@@ -10200,7 +10200,7 @@
         "model": "general.ciudad",
         "pk": 928,
         "fields": {
-            "nombre": "VALLE DE SAN JOSE",
+            "nombre": "VALLE DE SAN JOSÉ",
             "codigo_postal": "68855",
             "latitud": 6.434578919,
             "longitud": -73.10997171,
@@ -10211,7 +10211,7 @@
         "model": "general.ciudad",
         "pk": 929,
         "fields": {
-            "nombre": "VELEZ",
+            "nombre": "VÉLEZ",
             "codigo_postal": "68861",
             "latitud": 6.00741043,
             "longitud": -73.690572558,
@@ -10288,7 +10288,7 @@
         "model": "general.ciudad",
         "pk": 936,
         "fields": {
-            "nombre": "COLOSO",
+            "nombre": "COLOSÓ",
             "codigo_postal": "70204",
             "latitud": 9.494043427,
             "longitud": -75.345286931,
@@ -10310,7 +10310,7 @@
         "model": "general.ciudad",
         "pk": 938,
         "fields": {
-            "nombre": "COVENAS",
+            "nombre": "COVEÑAS",
             "codigo_postal": "70221",
             "latitud": 9.394449802,
             "longitud": -75.6574915,
@@ -10321,7 +10321,7 @@
         "model": "general.ciudad",
         "pk": 939,
         "fields": {
-            "nombre": "CHALAN",
+            "nombre": "CHALÁN",
             "codigo_postal": "70230",
             "latitud": 9.569584598,
             "longitud": -75.324209075,
@@ -10365,7 +10365,7 @@
         "model": "general.ciudad",
         "pk": 943,
         "fields": {
-            "nombre": "LA UNION",
+            "nombre": "LA UNIÓN",
             "codigo_postal": "70400",
             "latitud": 8.811997799,
             "longitud": -75.283222116,
@@ -10431,7 +10431,7 @@
         "model": "general.ciudad",
         "pk": 949,
         "fields": {
-            "nombre": "SAMPUES",
+            "nombre": "SAMPUÉS",
             "codigo_postal": "70670",
             "latitud": 9.165188649,
             "longitud": -75.360274217,
@@ -10497,7 +10497,7 @@
         "model": "general.ciudad",
         "pk": 955,
         "fields": {
-            "nombre": "SAN LUIS DE SINCE",
+            "nombre": "SAN LUIS DE SINCÉ",
             "codigo_postal": "70742",
             "latitud": 9.256299047,
             "longitud": -75.093970889,
@@ -10519,7 +10519,7 @@
         "model": "general.ciudad",
         "pk": 957,
         "fields": {
-            "nombre": "SANTIAGO DE TOLU",
+            "nombre": "SANTIAGO DE TOLÚ",
             "codigo_postal": "70820",
             "latitud": 9.533810567,
             "longitud": -75.535434694,
@@ -10530,7 +10530,7 @@
         "model": "general.ciudad",
         "pk": 958,
         "fields": {
-            "nombre": "SAN JOSE DE TOLUVIEJO",
+            "nombre": "SAN JOSÉ DE TOLUVIEJO",
             "codigo_postal": "70823",
             "latitud": 9.490297716,
             "longitud": -75.444511154,
@@ -10541,7 +10541,7 @@
         "model": "general.ciudad",
         "pk": 959,
         "fields": {
-            "nombre": "IBAGUE",
+            "nombre": "IBAGUÉ",
             "codigo_postal": "73001",
             "latitud": 4.451921427,
             "longitud": -75.252590995,
@@ -10585,7 +10585,7 @@
         "model": "general.ciudad",
         "pk": 963,
         "fields": {
-            "nombre": "ANZOATEGUI",
+            "nombre": "ANZOÁTEGUI",
             "codigo_postal": "73043",
             "latitud": 4.623390454,
             "longitud": -75.201654227,
@@ -10629,7 +10629,7 @@
         "model": "general.ciudad",
         "pk": 967,
         "fields": {
-            "nombre": "CARMEN DE APICALA",
+            "nombre": "CARMEN DE APICALÁ",
             "codigo_postal": "73148",
             "latitud": 4.123416795,
             "longitud": -74.747002457,
@@ -10794,7 +10794,7 @@
         "model": "general.ciudad",
         "pk": 982,
         "fields": {
-            "nombre": "LERIDA",
+            "nombre": "LÉRIDA",
             "codigo_postal": "73408",
             "latitud": 4.866034592,
             "longitud": -74.923371784,
@@ -10805,7 +10805,7 @@
         "model": "general.ciudad",
         "pk": 983,
         "fields": {
-            "nombre": "LIBANO",
+            "nombre": "LÍBANO",
             "codigo_postal": "73411",
             "latitud": 4.877936755,
             "longitud": -75.047630757,
@@ -10816,7 +10816,7 @@
         "model": "general.ciudad",
         "pk": 984,
         "fields": {
-            "nombre": "SAN SEBASTIAN DE MARIQUITA",
+            "nombre": "SAN SEBASTIÁN DE MARIQUITA",
             "codigo_postal": "73443",
             "latitud": 5.235322593,
             "longitud": -74.906680891,
@@ -10915,7 +10915,7 @@
         "model": "general.ciudad",
         "pk": 993,
         "fields": {
-            "nombre": "PURIFICACION",
+            "nombre": "PURIFICACIÓN",
             "codigo_postal": "73585",
             "latitud": 3.854281614,
             "longitud": -74.874511547,
@@ -10959,7 +10959,7 @@
         "model": "general.ciudad",
         "pk": 997,
         "fields": {
-            "nombre": "SALDANA",
+            "nombre": "SALDAÑA",
             "codigo_postal": "73671",
             "latitud": 3.912542787,
             "longitud": -75.018597615,
@@ -11003,7 +11003,7 @@
         "model": "general.ciudad",
         "pk": 1001,
         "fields": {
-            "nombre": "SUAREZ",
+            "nombre": "SUÁREZ",
             "codigo_postal": "73770",
             "latitud": 3.969210629,
             "longitud": -74.844487379,
@@ -11069,7 +11069,7 @@
         "model": "general.ciudad",
         "pk": 1007,
         "fields": {
-            "nombre": "ALCALA",
+            "nombre": "ALCALÁ",
             "codigo_postal": "76020",
             "latitud": 4.6788971,
             "longitud": -75.782979317,
@@ -11080,7 +11080,7 @@
         "model": "general.ciudad",
         "pk": 1008,
         "fields": {
-            "nombre": "ANDALUCIA",
+            "nombre": "ANDALUCÍA",
             "codigo_postal": "76036",
             "latitud": 4.153314228,
             "longitud": -76.160633411,
@@ -11113,7 +11113,7 @@
         "model": "general.ciudad",
         "pk": 1011,
         "fields": {
-            "nombre": "BOLIVAR",
+            "nombre": "BOLÍVAR",
             "codigo_postal": "76100",
             "latitud": 4.393118861,
             "longitud": -76.349820385,
@@ -11212,7 +11212,7 @@
         "model": "general.ciudad",
         "pk": 1020,
         "fields": {
-            "nombre": "EL AGUILA",
+            "nombre": "EL ÁGUILA",
             "codigo_postal": "76243",
             "latitud": 4.917562873,
             "longitud": -76.066010008,
@@ -11278,7 +11278,7 @@
         "model": "general.ciudad",
         "pk": 1026,
         "fields": {
-            "nombre": "GUACARI",
+            "nombre": "GUACARÍ",
             "codigo_postal": "76318",
             "latitud": 3.759414991,
             "longitud": -76.345182773,
@@ -11289,7 +11289,7 @@
         "model": "general.ciudad",
         "pk": 1027,
         "fields": {
-            "nombre": "JAMUNDI",
+            "nombre": "JAMUNDÍ",
             "codigo_postal": "76364",
             "latitud": 3.213892389,
             "longitud": -76.627604178,
@@ -11311,7 +11311,7 @@
         "model": "general.ciudad",
         "pk": 1029,
         "fields": {
-            "nombre": "LA UNION",
+            "nombre": "LA UNIÓN",
             "codigo_postal": "76400",
             "latitud": 4.537937391,
             "longitud": -76.103289827,
@@ -11377,7 +11377,7 @@
         "model": "general.ciudad",
         "pk": 1035,
         "fields": {
-            "nombre": "RIOFRIO",
+            "nombre": "RIOFRÍO",
             "codigo_postal": "76616",
             "latitud": 4.109500298,
             "longitud": -76.371054433,
@@ -11443,7 +11443,7 @@
         "model": "general.ciudad",
         "pk": 1041,
         "fields": {
-            "nombre": "TULUA",
+            "nombre": "TULUÁ",
             "codigo_postal": "76834",
             "latitud": 4.02840797,
             "longitud": -76.032503793,
@@ -11564,7 +11564,7 @@
         "model": "general.ciudad",
         "pk": 1052,
         "fields": {
-            "nombre": "PUERTO RONDON",
+            "nombre": "PUERTO RONDÓN",
             "codigo_postal": "81591",
             "latitud": 6.411761829,
             "longitud": -70.966789642,
@@ -11619,7 +11619,7 @@
         "model": "general.ciudad",
         "pk": 1057,
         "fields": {
-            "nombre": "CHAMEZA",
+            "nombre": "CHÁMEZA",
             "codigo_postal": "85015",
             "latitud": 5.228453404,
             "longitud": -72.864968036,
@@ -11652,7 +11652,7 @@
         "model": "general.ciudad",
         "pk": 1060,
         "fields": {
-            "nombre": "MANI",
+            "nombre": "MANÍ",
             "codigo_postal": "85139",
             "latitud": 4.675769488,
             "longitud": -72.212802727,
@@ -11674,7 +11674,7 @@
         "model": "general.ciudad",
         "pk": 1062,
         "fields": {
-            "nombre": "NUNCHIA",
+            "nombre": "NUNCHÍA",
             "codigo_postal": "85225",
             "latitud": 5.529181235,
             "longitud": -72.092519371,
@@ -11685,7 +11685,7 @@
         "model": "general.ciudad",
         "pk": 1063,
         "fields": {
-            "nombre": "OROCUE",
+            "nombre": "OROCUÉ",
             "codigo_postal": "85230",
             "latitud": 4.915139133,
             "longitud": -71.598739657,
@@ -11740,7 +11740,7 @@
         "model": "general.ciudad",
         "pk": 1068,
         "fields": {
-            "nombre": "SACAMA",
+            "nombre": "SÁCAMA",
             "codigo_postal": "85315",
             "latitud": 6.049906435,
             "longitud": -72.210761632,
@@ -11762,7 +11762,7 @@
         "model": "general.ciudad",
         "pk": 1070,
         "fields": {
-            "nombre": "TAMARA",
+            "nombre": "TÁMARA",
             "codigo_postal": "85400",
             "latitud": 5.878927424,
             "longitud": -72.200678221,
@@ -11817,7 +11817,7 @@
         "model": "general.ciudad",
         "pk": 1075,
         "fields": {
-            "nombre": "COLON",
+            "nombre": "COLÓN",
             "codigo_postal": "86219",
             "latitud": 1.204815876,
             "longitud": -76.973768047,
@@ -11839,7 +11839,7 @@
         "model": "general.ciudad",
         "pk": 1077,
         "fields": {
-            "nombre": "PUERTO ASIS",
+            "nombre": "PUERTO ASÍS",
             "codigo_postal": "86568",
             "latitud": 0.433884539,
             "longitud": -76.521582034,
@@ -11861,7 +11861,7 @@
         "model": "general.ciudad",
         "pk": 1079,
         "fields": {
-            "nombre": "PUERTO GUZMAN",
+            "nombre": "PUERTO GUZMÁN",
             "codigo_postal": "86571",
             "latitud": 0.746432215,
             "longitud": -75.880229785,
@@ -11872,7 +11872,7 @@
         "model": "general.ciudad",
         "pk": 1080,
         "fields": {
-            "nombre": "PUERTO LEGUIZAMO",
+            "nombre": "PUERTO LEGUÍZAMO",
             "codigo_postal": "86573",
             "latitud": 0.0594719700001,
             "longitud": -75.064793271,
@@ -11938,7 +11938,7 @@
         "model": "general.ciudad",
         "pk": 1086,
         "fields": {
-            "nombre": "VILLAGARZON",
+            "nombre": "VILLAGARZÓN",
             "codigo_postal": "86885",
             "latitud": 0.911149515,
             "longitud": -76.744954473,
@@ -11949,7 +11949,7 @@
         "model": "general.ciudad",
         "pk": 1087,
         "fields": {
-            "nombre": "SAN ANDRES",
+            "nombre": "SAN ANDRÉS",
             "codigo_postal": "88001",
             "latitud": 12.543115116,
             "longitud": -81.717623824,
@@ -12026,7 +12026,7 @@
         "model": "general.ciudad",
         "pk": 1094,
         "fields": {
-            "nombre": "MIRITI - PARANA",
+            "nombre": "MIRITÍ - PARANÁ",
             "codigo_postal": "91460",
             "latitud": -0.687037553,
             "longitud": -71.185504598,
@@ -12037,7 +12037,7 @@
         "model": "general.ciudad",
         "pk": 1095,
         "fields": {
-            "nombre": "PUERTO ALEGRIA",
+            "nombre": "PUERTO ALEGRÍA",
             "codigo_postal": "91530",
             "latitud": -0.952145073,
             "longitud": -73.757227478,
@@ -12059,7 +12059,7 @@
         "model": "general.ciudad",
         "pk": 1097,
         "fields": {
-            "nombre": "PUERTO NARINO",
+            "nombre": "PUERTO NARIÑO",
             "codigo_postal": "91540",
             "latitud": -3.631323222,
             "longitud": -70.471990393,
@@ -12081,7 +12081,7 @@
         "model": "general.ciudad",
         "pk": 1099,
         "fields": {
-            "nombre": "TARAPACA",
+            "nombre": "TARAPACÁ",
             "codigo_postal": "91798",
             "latitud": -2.451794264,
             "longitud": -70.006515353,
@@ -12092,7 +12092,7 @@
         "model": "general.ciudad",
         "pk": 1100,
         "fields": {
-            "nombre": "INIRIDA",
+            "nombre": "INÍRIDA",
             "codigo_postal": "94001",
             "latitud": 3.516363079,
             "longitud": -68.008347279,
@@ -12180,7 +12180,7 @@
         "model": "general.ciudad",
         "pk": 1108,
         "fields": {
-            "nombre": "SAN JOSE DEL GUAVIARE",
+            "nombre": "SAN JOSÉ DEL GUAVIARE",
             "codigo_postal": "95001",
             "latitud": 2.484286091,
             "longitud": -71.919169926,
@@ -12224,7 +12224,7 @@
         "model": "general.ciudad",
         "pk": 1112,
         "fields": {
-            "nombre": "MITU",
+            "nombre": "MITÚ",
             "codigo_postal": "97001",
             "latitud": 1.06148231,
             "longitud": -70.46688401,
@@ -12235,7 +12235,7 @@
         "model": "general.ciudad",
         "pk": 1113,
         "fields": {
-            "nombre": "CARURU",
+            "nombre": "CARURÚ",
             "codigo_postal": "97161",
             "latitud": 1.052762314,
             "longitud": -71.33093035,
@@ -12279,7 +12279,7 @@
         "model": "general.ciudad",
         "pk": 1117,
         "fields": {
-            "nombre": "YAVARATE",
+            "nombre": "YAVARATÉ",
             "codigo_postal": "97889",
             "latitud": 0.833312241,
             "longitud": -69.618677544,
@@ -12290,7 +12290,7 @@
         "model": "general.ciudad",
         "pk": 1118,
         "fields": {
-            "nombre": "PUERTO CARRENO",
+            "nombre": "PUERTO CARREÑO",
             "codigo_postal": "99001",
             "latitud": 5.836529669,
             "longitud": -68.141222336,
@@ -12312,7 +12312,7 @@
         "model": "general.ciudad",
         "pk": 1120,
         "fields": {
-            "nombre": "SANTA ROSALIA",
+            "nombre": "SANTA ROSALÍA",
             "codigo_postal": "99624",
             "latitud": 4.968581012,
             "longitud": -70.659970968,
